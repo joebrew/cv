@@ -1,0 +1,354 @@
+\documentclass[11pt]{article}
+%\usepackage{charter} % Use the Charter font for the document text
+\usepackage{multicol}
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{fancyhdr} % Headers and footers
+\pagestyle{fancy} % All pages have headers and footers
+\fancyhead{} % Blank out the default header
+\fancyfoot{} % Blank out the default footer
+\fancyhead[C]{joebrew@gmail.com $\bullet$ Joe Brew $\bullet$ +34 666 66 80 86} % Custom header text
+\fancyfoot[RO,LE]{\thepage} % Custom footer text
+\begin{document}
+\newgeometry{margin=3cm}
+\SweaveOpts{concordance=TRUE, echo=FALSE, eval=TRUE, results=hide}
+
+<<>>=
+name <- "Joe Brew"
+email <- "joebrew@gmail.com"
+phone <- "+36 666 66 80 86"
+@
+\thispagestyle{plain}
+\begin{center}
+\begin{Huge}
+\scshape{\Sexpr{name}}\\
+\end{Huge}
+\Sexpr{email} \hfill  Carrer de Cienfuegos \\
+\Sexpr{phone} \hfill  Entresol 2da \\
+\href{http://economicsofmalaria.com}{www.economicsofmalaria.com} \hfill Barcelona, 08027 (Spain)
+
+\end{center}
+
+\hrulefill
+
+%\vspace{10mm}
+
+% \begin{multicols}{2}  % Start a two-column layout
+% 
+% \noindent \textbf{Summary}\\
+% 29 year-old American with a diverse educational background and significant international experience.  Thrives under pressure, takes intiative, likes to work.  Not an asshole.
+% 
+% \columnbreak
+% 
+% % \noindent \textbf{Skills}
+% % 
+% % 
+% % \noindent -French, English, Spanish, Catalan\\
+% % \noindent -R, SAS, SQL, Python, Latex \\
+% % \noindent -Outbreak control and investigation\\
+% % \noindent -GIS, data visualization\\
+% % \noindent -Machine learning, BI, strategy
+%  \end{multicols}
+% 
+% \vspace{-4mm}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Education} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-7mm}
+\line(1,0){200}
+\vspace{2mm}
+
+\noindent \textbf{PhD} (in progress) \hfill \emph{January 2016-}\\
+\noindent \emph{Institut de Salut Global (host institution)} \hfill \textsc{Barcelona, Spain} \\
+\noindent \emph{Vrije Universiteit (secondary institution)} \hfill \textsc{Amsterdam, Holland}
+
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Research on the cost effectiveness and efficacy of malaria control interventions in southern Mozambique
+\end{itemize}
+\noindent \textbf{Master of Public Health} \hfill \emph{September 2011 - July 2013} \\
+\noindent \emph{Kobenhavns Universitet} (year 2) \hfill \textsc{Copenhagen, Denmark} \\
+\noindent \emph{Escuela Andaluza de Salud Pública} (year 1) \hfill \textsc{Granada, Spain}
+
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Coursework in epidemiology, economic evaluation, demography, advanced biostatistics, management, health policy, health promotion
+\end{itemize}
+
+
+\noindent \textbf{Master of Arts}\hfill \emph{September 2009-June 2010}\\
+\noindent \emph{Institut Catholique de Paris} \hfill \textsc{Paris, France}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item MA in Contemporary Diplomatic History, fieldwork on negotiations leading to Paris Peace Accords
+\end{itemize}
+
+\noindent \textbf{Bachelor of Arts} \hfill \emph{August 2004-May 2008}\\
+\noindent \emph{Sewanee: The University of the South} \hfill \textsc{Sewanee, TN, USA}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Triple major in Contemporary Non-Western History, Spanish, French
+\end{itemize}
+
+
+\section*{Publications} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-7mm}
+\line(1,0){200}
+\vspace{2mm}
+
+% \noindent \textsc{(The following [and more] are available upon request)}\\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection*{Peer-reviewed papers}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\noindent Lednicky J, Iovine N, \textbf{Brew J}, Loeb J, Sugimoto J, Rand K, Morris J. \emph{Hemagglutinin Gene Clade 3C.2a Influenza A(H3N2) Viruses, Alachua County, Florida, USA, 2014–15.} \href{http://wwwnc.cdc.gov/eid/article/22/1/15-1019_article}{Emerging Infectious Diseases} \\
+DOI: 10.3201/eid2201.151019 \hfill \emph{(2016)} \\
+
+\noindent Potash E, \textbf{Brew J}, Loewi A, Majumdar S, Reece A, Walsh J, Rozier E, Jorgenson E, Mansour R, Ghani R. \emph{Predictive Modeling for Public Health: Preventing Childhood Lead Poisoning.} \href{http://dl.acm.org/citation.cfm?id=2788629&dl=ACM&coll=DL&CFID=747855435&CFTOKEN=56343631}{ACM SIGKDD International Conference on Knowledge Discovery and Data Mining} \\  
+DOI: 10.1145/2783258.2788629 \hfill \emph{(2015)}\\
+
+\noindent Iovine M, Morris JG, Fedenburg K, Rand K, Alnuaimat H, Lipori G, \textbf{Brew J}, Lednicky JA. \emph{Increased severity of H1N1 influenza in the 2013-14 season and emergence of the D225G variant.} \href{http://wwwnc.cdc.gov/eid/article/21/4/14-1375_article}{Emerging Infectious Diseases} \\
+DOI: 10.3201/eid2104.141375 \hfill \emph{(2015)}\\
+
+
+\noindent \textbf{Brew J}. \emph{(Mis)measurement in the study of food environment: we need better methods to solve the puzzle.} \href{http://jech.bmj.com/}{Journal of Epidemiology and Community Health} \\
+DOI:10.1136/jech-2014-205163 \hfill \emph{2015}\\
+
+
+\noindent Tran CH, Sugimoto JD, Pulliam JR, Ryan KA, Myers PD, Castleman JB, Doty R, Johnson J, Stringfellow J, Kovacevich N, \textbf{Brew J}, Cheung LL, Caron B, Lipori G, Harle CA, Alexander C, Yang Y, Longini IM Jr, Halloran ME, Morris JG, Small PA Jr. \emph{School-Located Influenza Vaccination Reduces Community Risk for Influenza and Influenza-Like Illness Emergency Care Visits.} \href{http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114479}{PLOS ONE} \\
+DOI: 10.1371/journal.pone.0114479 \hfill \emph{2014}\\
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection*{Academic theses}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\noindent \emph{Youth overweight in Denmark: prevalence, ethnicity and other risk factors. } Kobenhavns Universitet (MPH dissertation) \hfill \emph{2013}\\
+
+\noindent \emph{Estrés laboral en trabajadoras domésticas en Andalucía. } Escuela Andaluza de Salud Pública  \hfill \emph{2012}\\
+
+\noindent \emph{La Presse comme arme politique: le role des journaux américains dans les négociations des accords de Paris.} Institut Catholique de Paris (MA dissertation) \hfill \emph{2009}\\
+
+\noindent \emph{Religion and Counterrevolution: Fundamentalist Evangelicalism and the Dictatorship of Efraín Ríos Montt.} Sewanee: The University of the South (BA thesis) \hfill \emph{2008}\\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection*{Non-academic}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\noindent \emph{Control Flu Data Insights: Consent form return and vaccine hesitance}\\ Florida Department of Health, Alachua County (internal) \hfill \emph{2015}\\
+
+\noindent \emph{Community Health Improvement Plan: Evaluation Reports} \\ Florida Department of Health, Alachua County (internal) \hfill \emph{2014}\\
+
+\noindent \emph{Quantifying capacity at Health Posts in Tigray, Ethiopia} \\ Tigray Regional Health Bureau (internal) \hfill \emph{2013}\\
+
+\noindent \emph{Ciudad Quetzal: A Guatemalan City Grapples with Gang Terrorism} \\ Tico Times, Costa Rica \hfill \emph{2011}\\
+
+\noindent \emph{Heart of the sky, heart of the earth: religious division and its sociopolitical causes and consequences in San Juan Sacatepequez, Guatemala} \\ Biehl Fellowship Paper \hfill \emph{2007}\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Experience} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-7mm}
+\line(1,0){200}
+\vspace{2mm}
+
+\noindent \textbf{Data scientist} \hfill \textsc{Oakland, CA}\\
+\noindent \emph{\href{http://lendable.io}{Lendable}} \hfill \emph{January 2015 - present}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Work to expand access to financial products to the developing world (East Africa, India)
+\item Program machine learning algorithms to predict financial risk
+\item Develop and implement stochastic simulation methods 
+\item Devise creative means for extracting and generating features in a low-data context 
+\item Create internal and client-facing visualization tools
+%\item Use tools like Python (pandas, numpy, scikitlearn) and R
+\end{itemize}
+
+\noindent \textbf{Analyst} \hfill \textsc{Washington, DC, USA}\\
+\noindent \emph{\href{https://analystinstitute.org/}{Analyst Institute}} \hfill \emph{April 2014 - April 2015}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Analyze voter data from controlled experiments
+\item Create \href{https://analystinstitute.org/power-calculator/}{tools} for statistical analysis 
+\item Design \href{http://spark.rstudio.com/joebrew/ate/}{tools} for data visualization
+\end{itemize}
+
+\noindent \textbf{Surveillance Epidemiologist} \hfill \textsc{Gainesville, FL, USA}\\
+\noindent \emph{\href{http://alachua.floridahealth.gov/}{Florida Department of Health, Alachua County}} \hfill \emph{July 2013 - December 2015}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Write programs to detect clusters/abnormalities for ER data stream
+\item Analyze mosquito trap data to prevent arbovirus transmission
+\item Coordinate flu surveillance operations through school system
+\item Oversee program evaluation, billing, revenue modeling activities
+\end{itemize}
+
+
+\noindent \textbf{"Data Science for Social Good" Fellow} \hfill \textsc{Chicago, IL, USA}\\
+\noindent \emph{\href{http://www.uchicago.edu/}{University of Chicago}} \hfill \emph{June 2014 - August 2014}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Analyzed large datasets to predict pediatric lead poisoning
+\item Worked in close collaboration with the Chicago Dept. of Public Health
+\item Used tools like R, Python and D3
+\item Worked closely with industry experts like Rayid Ghani and Ben Yuhas
+\item Designed \href{http://spark.rstudio.com/joebrew/cdph/}{tools} for data exploration
+\end{itemize}
+
+
+\noindent \textbf{Erasmus Mundus Researcher} \hfill \textsc{Copenhagen, Denmark}\\
+\noindent \emph{\href{https://www.skolesundhed.dk/Default.aspx}{Skolesundhed}} \hfill \emph{February 2012-June 2013}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Redesigned school health screening system to bring to digital platform 
+\item Analyzed 3 years of youth health data on immigration and overweight
+\end{itemize}
+
+\noindent \textbf{Health Systems Researcher} \hfill \textsc{Barcelona, Spain}\\
+\noindent \emph{\href{http://www.aspb.cat/}{Agència de Salut Pública de Barcelona}} \hfill \emph{November 2012-February 2013}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Worked on SOPHIE project on immigration and health disparities 
+\end{itemize}
+
+\noindent \textbf{Maternal Health Epidemiologist} \hfill \textsc{Mekelle, Ethiopia}\\
+\noindent \emph{\href{http://www.moh.gov.et/tigrayhb}{Tigray Regional Health Bureau}} \hfill \emph{May 2012-August 2012}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Collected, analyzed and reported on data from rural regional Health Posts near the Eritrean border
+\end{itemize}
+
+\noindent \textbf{Teacher} \hfill \textsc{Sewanee, TN, USA}\\
+\noindent \emph{\href{http://www.sasweb.org/}{St. Andrew's-Sewanee School}} \hfill \emph{January 2010-June 2011}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Taught middle and high school Spanish and Technology
+\end{itemize}
+
+\noindent \textbf{Assistant Coach} \hfill \textsc{Sewanee, TN, USA}\\
+\noindent \emph{\href{http://sewanee.edu/}{The University of the South}} \hfill \emph{August 2009-December 2010}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Coached men and women's cross country and track and field
+\end{itemize}
+
+\noindent \textbf{Health Educator} \hfill \textsc{Avedji Cité, Togo}\\
+\noindent \emph{\href{http://www.pdh-togo.org/html/english/welcome.html}{Promotion et Développement Humain}} \hfill \emph{May 2009-August 2009}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Lead sexual health education workshops for teens
+\item Assessed medication adherence among HIV/AIDS patients through visits/interviews
+\item Assisted in accounting, data organization, process improvement
+
+\end{itemize}
+
+\noindent \textbf{Recreation Coordinator / Teacher} \hfill \textsc{Ciudad Quetzal, Guatemala}\\
+\noindent \emph{Instituto Experimental de Ciudad Quetzal} \hfill \emph{2006-2008 (summers)}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Organized youth recreation clinics for the \textit{Cases Interculturales} program
+\item Taught English and Spanish in impoverished and violence-stricken area
+\end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section*{Honors and Awards} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-7mm}
+\line(1,0){200}
+\vspace{2mm}
+
+
+\noindent \textbf{Data Science for Social Good Fellowship} \hfill \emph{2014}\\
+\noindent Funded by the University of Chicago to spend 3 months tackling big problems with big data \\
+
+\noindent \textbf{Erasmus Mundus Fellowship} \hfill \emph{2011}\\
+\noindent European Commission award for full MPH funding \\
+
+\noindent \textbf{Highest honors ("mention très bien") on MA thesis} \hfill \emph{2009}\\
+\noindent \textit{La Presse comme arme politique: le role des journaux américains dans les négociations des accords de Paris}\\
+
+\noindent \textbf{Highest honors ("summa cum laude") and Phi Beta Kappa}  \hfill \emph{2008}\\
+\noindent Top 5\% of graduating class at Sewanee  \\
+
+\noindent \textbf{Linda Wheat Fellowship}  \hfill \emph{2008}\\
+\noindent Full funding for graduate studies at the Institut Catholique de Paris  \\
+
+\noindent \textbf{Fulbright ETA (Andorra)}  \hfill \emph{2008}\\
+\noindent Awarded, but I declined in order to pursue graduate studies \\
+
+\noindent \textbf{Algernon Sydney Sullivan Award}  \hfill \emph{2008}\\
+\noindent Granted to one graduate annually, Sewanee's "most prestigious prize" \\
+
+\noindent \textbf{Joseph Cushman Scholarship}  \hfill \emph{2007}\\
+\noindent Highest award given to History major at Sewanee \\
+
+\noindent \textbf{Gessell Fellowship}  \hfill \emph{2007}\\
+\noindent Funding to carry out research on African-American history at Sewanee\\
+
+\noindent \textbf{Biehl Social Science Fellowship}  \hfill \emph{2007}\\
+\noindent Full funding to investigate the religious roots of social division in Guatemala\\
+
+\noindent \textbf{Lilly Grant}  \hfill \emph{2006}\\
+\noindent Full funding for vocational institute and internship in Guatemala\\
+
+\noindent \textbf{Wright-Bentley Scholarship}  \hfill \emph{2005}\\
+\noindent For strong academic skills and service to the community\\
+
+\noindent \textbf{Wilkins Scholarship}  \hfill \emph{2004}\\
+\noindent Merit and community award\\
+
+\section*{Community Service} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-7mm}
+\line(1,0){200}
+\vspace{2mm}
+
+\noindent \textbf{Translator} \hfill \textsc{Port-au-Prince, Haiti}\\
+\noindent \emph{Physicians for Haiti} \hfill \emph{2010-present}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Translated medical education documents between French and English
+\end{itemize}
+
+\noindent \textbf{Founder} \hfill \textsc{Sewanee, TN, USA}\\
+\noindent \emph{Weekend English for Migrants} \hfill \emph{2009-2011}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Organized language exchanges between high-schoolers and undocumented immigrants
+\end{itemize}
+
+
+\noindent \textbf{Co-founder} \hfill \textsc{Sewanee, TN, USA}\\
+\noindent \emph{ABRE} \hfill \emph{2006-2008}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Co-founded and presided over social awareness organization
+\end{itemize}
+
+
+% \noindent \textbf{Volunteer} \hfill \textsc{Gainesville, FL, USA}\\
+% \noindent \emph{Coalition of Immokalee Workers} \hfill \emph{2002}
+% \vspace{-2mm}
+% \begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+% \item Advocated for the rights and dignity of migrant farmworkers
+% \end{itemize}
+
+
+
+
+\section*{Personal} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-7mm}
+\line(1,0){200}
+\vspace{2mm}
+
+\noindent Happily married, father, likes to fix and ride bikes, enjoys travel, doesn't enjoy airplanes, loves running, hates sitting, morning person.
+
+
+\end{document}
