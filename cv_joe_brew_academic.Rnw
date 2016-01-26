@@ -159,7 +159,7 @@ DOI: 10.1371/journal.pone.0114479 \hfill \emph{(2014)}\\
 \line(1,0){200}
 \vspace{2mm}
 
-\noindent \textbf{Data scientist} \hfill \textsc{Oakland, CA}\\
+\noindent \textbf{Data scientist} \hfill \textsc{Oakland, CA, USA}\\
 \noindent \emph{\href{http://lendable.io}{Lendable}} \hfill \emph{January 2015 - present}
 \vspace{-2mm}
 \begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
