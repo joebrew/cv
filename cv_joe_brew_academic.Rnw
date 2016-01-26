@@ -117,11 +117,11 @@ DOI: 10.3201/eid2104.141375 \hfill \emph{(2015)}\\
 
 
 \noindent \textbf{Brew J}. \emph{(Mis)measurement in the study of food environment: we need better methods to solve the puzzle.} \href{http://jech.bmj.com/}{Journal of Epidemiology and Community Health} \\
-DOI:10.1136/jech-2014-205163 \hfill \emph{2015}\\
+DOI:10.1136/jech-2014-205163 \hfill \emph{(2015)}\\
 
 
 \noindent Tran CH, Sugimoto JD, Pulliam JR, Ryan KA, Myers PD, Castleman JB, Doty R, Johnson J, Stringfellow J, Kovacevich N, \textbf{Brew J}, Cheung LL, Caron B, Lipori G, Harle CA, Alexander C, Yang Y, Longini IM Jr, Halloran ME, Morris JG, Small PA Jr. \emph{School-Located Influenza Vaccination Reduces Community Risk for Influenza and Influenza-Like Illness Emergency Care Visits.} \href{http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114479}{PLOS ONE} \\
-DOI: 10.1371/journal.pone.0114479 \hfill \emph{2014}\\
+DOI: 10.1371/journal.pone.0114479 \hfill \emph{(2014)}\\
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
