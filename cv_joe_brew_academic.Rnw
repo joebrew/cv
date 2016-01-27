@@ -175,7 +175,7 @@ DOI: 10.1371/journal.pone.0114479 \hfill \emph{(2014)}\\
 \noindent \emph{BCN Data: the numbers behind Europe's most vibrant city}\\
 \href{www.bcndata.cat}{www.bcndata.cat} \hfill \emph{2015 - ongoing}\\
 
-\noindent \emph{Control Flu Data Insights: Immunization, consent and vaccine hesitance}\\ \href{http://economicsofmalaria.com/pdfs/estimating.pdf}{Florida Department of Health}, \href{http://economicsofmalaria.com/pdfs/targetting.pdf}{Alachua County} \hfill \emph{2015}\\
+\noindent \emph{Control Flu Data Insights: Immunization, consent and vaccine hesitance}\\ \href{http://economicsofmalaria.com/pdfs/estimating.pdf}{Florida Department of Health}, \href{http://economicsofmalaria.com/pdfs/targeting.pdf}{Alachua County} \hfill \emph{2015}\\
 
 \noindent \emph{Community Health Improvement Plan: Evaluation Reports} \\ Florida Department of Health, Alachua County (internal) \hfill \emph{2014}\\
 
