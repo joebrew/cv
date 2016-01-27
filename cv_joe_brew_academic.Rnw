@@ -55,6 +55,36 @@ phone <- "+36 666 66 80 86"
 % 
 % \vspace{-4mm}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Languages} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-7mm}
+\line(1,0){200}
+\vspace{2mm}
+
+\begin{multicols}{2}
+
+% \begin{center}
+% \textbf{Human}
+% \end{center}
+\noindent \emph{Native:} English\\
+\noindent \emph{Fluent:} Spanish, French, Catalan\\
+\noindent \emph{Proficient:} Portuguese
+
+\vfill
+\columnbreak
+
+% \begin{center}
+% \textbf{Computer}
+% \end{center}
+
+\noindent \emph{Expert:} R, SAS\\
+\noindent \emph{Professional:} Python, Stata\\
+\noindent \emph{Proficient:} Javascript, SPSS
+
+
+\end{multicols}
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Education} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -94,6 +124,8 @@ phone <- "+36 666 66 80 86"
 \item Triple major in Contemporary Non-Western History, Spanish, French
 \end{itemize}
 
+
+\newpage
 
 \section*{Publications} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \vspace{-7mm}
