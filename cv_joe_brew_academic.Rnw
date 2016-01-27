@@ -172,13 +172,17 @@ DOI: 10.1371/journal.pone.0114479 \hfill \emph{(2014)}\\
 \subsection*{Non-academic}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\noindent \emph{Control Flu Data Insights: Consent form return and vaccine hesitance}\\ Florida Department of Health, Alachua County (internal) \hfill \emph{2015}\\
+\noindent \emph{BCN Data: the numbers behind Europe's most vibrant city}\\
+\href{www.bcndata.cat}{www.bcndata.cat} \hfill \emph{2015 - ongoing}\\
+
+\noindent \emph{Control Flu Data Insights: Immunization, consent and vaccine hesitance}\\ \href{http://economicsofmalaria.com/pdfs/estimating.pdf}{Florida Department of Health}, \href{http://economicsofmalaria.com/pdfs/targetting.pdf}{Alachua County} \hfill \emph{2015}\\
 
 \noindent \emph{Community Health Improvement Plan: Evaluation Reports} \\ Florida Department of Health, Alachua County (internal) \hfill \emph{2014}\\
 
 \noindent \emph{Quantifying capacity at Health Posts in Tigray, Ethiopia} \\ Tigray Regional Health Bureau (internal) \hfill \emph{2013}\\
 
-\noindent \emph{Ciudad Quetzal: A Guatemalan City Grapples with Gang Terrorism} \\ Tico Times, Costa Rica \hfill \emph{2011}\\
+\noindent \emph{Ciudad Quetzal: A Guatemalan City Grapples with Gang Terrorism} \\ 
+\href{http://www.ticotimes.net/2011/04/15/guatemala-city-grapples-with-gang-terrorism}{Tico Times, Costa Rica} \hfill \emph{2011}\\
 
 \noindent \emph{Heart of the sky, heart of the earth: religious division and its sociopolitical causes and consequences in San Juan Sacatepequez, Guatemala} \\ Biehl Fellowship Paper \hfill \emph{2007}\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
