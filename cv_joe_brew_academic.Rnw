@@ -23,19 +23,26 @@ phone <- "+36 666 66 80 86"
 phone2 <- "+258 843 919 189"
 @
 \thispagestyle{plain}
+
 \begin{center}
+
+
 \begin{Huge}
 \scshape{\Sexpr{name}}\\
 \end{Huge}
 \Sexpr{email} \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
 \Sexpr{phone} \hfill Barcelona, 08027 (Spain)  \\
 \Sexpr{phone2} \hfill CISM, Vila da Manhiça, Bairro Cambeve, Rua 12 \\
+\href{https://orcid.org/0000-0002-4119-0117}{orcid.org/0000-0002-4119-0117} 
+\hfill Distrito da Manhiça, CP 1929, Maputo (Mozambique) \\
+\href{http://www.scopus.com/inward/authorDetails.url?authorID=56442459000&partnerID=MN8TOARS}{Scopus ID: 56442459000} \hfill
 \href{http://economicsofmalaria.com}{www.economicsofmalaria.com} 
-\hfill Distrito da Manhiça, CP 1929, Maputo (Mozambique)
 
-\end{center}
 
 \hrulefill
+
+
+\end{center}
 
 %\vspace{10mm}
 
@@ -57,6 +64,8 @@ phone2 <- "+258 843 919 189"
 %  \end{multicols}
 % 
 % \vspace{-4mm}
+
+\end{center}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Languages} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -102,7 +111,7 @@ phone2 <- "+258 843 919 189"
 
 \vspace{-2mm}
 \begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Coursework in economics, epidemiology and policy
+\item Coursework in economics, epidemiology, evaluation and policy
 \item Research on the cost effectiveness and efficacy of malaria control and elimination interventions
 \end{itemize}
 \noindent \textbf{Master of Public Health} \hfill \emph{September 2011 - July 2013} \\
