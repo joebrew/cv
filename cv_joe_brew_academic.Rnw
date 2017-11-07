@@ -11,28 +11,22 @@
 \fancyhead{} % Blank out the default header
 \fancyfoot{} % Blank out the default footer
 \fancyhead[C]{joebrew@gmail.com $\bullet$ Joe Brew } % Custom header text
-\fancyfoot[RO,LE]{\thepage} % Custom footer text
 \begin{document}
 \newgeometry{margin=2.5cm}
-\SweaveOpts{concordance=TRUE, echo=FALSE, eval=TRUE, results=hide}
+% \SweaveOpts{concordance=TRUE, echo=FALSE, eval=TRUE, results=hide}
 
-<<>>=
-name <- "Joe Brew"
-email <- "joebrew@gmail.com"
-phone <- "+36 666 66 80 86"
-phone2 <- "+258 843 919 189"
-@
+
 \thispagestyle{plain}
 
 \begin{center}
 
 
 \begin{Huge}
-\scshape{\Sexpr{name}}\\
+\scshape{Joe Brew}\\
 \end{Huge}
-\Sexpr{email} \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
-\Sexpr{phone} \hfill Barcelona, 08027 (Spain)  \\
-\Sexpr{phone2} \hfill CISM, Vila da Manhiça, Bairro Cambeve, Rua 12 \\
+joebrew@gmail.com \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
++36 666 66 80 86 \hfill Barcelona, 08027 (Spain)  \\
++258 843 919 189 \hfill CISM, Vila da Manhiça, Bairro Cambeve, Rua 12 \\
 \href{https://orcid.org/0000-0002-4119-0117}{orcid.org/0000-0002-4119-0117} 
 \hfill Distrito da Manhiça, CP 1929, Maputo (Mozambique) \\
 \href{http://www.scopus.com/inward/authorDetails.url?authorID=56442459000&partnerID=MN8TOARS}{Scopus ID: 56442459000} \hfill
@@ -155,8 +149,10 @@ phone2 <- "+258 843 919 189"
 \subsection*{Peer-reviewed papers}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\noindent García-Basteiro A, Miranda R, \textbf{Brew J}, et al. \enph{Tuberculosis on the rise in southern Mozambique (1997–2012)}. \href{http://erj.ersjournals.com}{European Respiratory Journal} \\
-DOI: 10.1183/13993003.01683-2016 \hfill \emph{(2017 [pre-publication])} \\
+\noindent García-Basteiro A, Mambuque E, Hertog A, Saavedra B, Cuamba I, Oliveras L, Blanco S, Bulo H, \textbf{Brew J}, Cuevas L, Cobelens F, Nhabomba A, Anthony R. \emph{IP-10 Kinetics in the First Week of Therapy are Strongly Associated with Bacteriological Confirmation of Tuberculosis Diagnosis in HIV-Infected Patients.} \href{https://www.nature.com/articles/s41598-017-13785-3}{Nature: Scientific Reports} \\ DOI: 10.1038/s41598-017-13785-3 \hfill \emph{(2017)} \\
+
+\noindent García-Basteiro A, Miranda R, \textbf{Brew J}, Sacoor C, Valencia S, Bulo H, Cobelens F, Macete E. \enph{Tuberculosis on the rise in southern Mozambique (1997–2012)}. \href{http://erj.ersjournals.com}{European Respiratory Journal} \\
+DOI: 10.1183/13993003.01683-2016 \hfill \emph{(2017)} \\
 
 \noindent Tran C, \textbf{Brew J}, Johnson N, Ryan K, Martin B, Cornett C, Caron B, Duncan R, Small P, Myers P, Morris J. \emph{Sustainability of School-located Influenza Vaccination Programs in Florida.} \href{http://www.journals.elsevier.com/vaccine}{Vaccine} \\
 DOI: 10.1016/j.vaccine.2016.04.017 \hfill \emph{(2016)} \\
@@ -188,6 +184,25 @@ DOI: 10.1371/journal.pone.0114479 \hfill \emph{(2014)}\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection*{Conference presentations}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\noindent \textbf{Brew J}, Cirera L, Valls J, Sicuri E. \emph{Impact of a malaria elimination initiative on school outcomes in Southern Mozambique} \href{http://www.astmh.org/annual-meeting}{American Society of Tropical Medicine & Hygiene} \\
+Baltimore, USA \hfill \emph{(2017)}\\
+
+\noindent \textbf{Brew J}, Gondo K, Dorkin E, Thomas R, Sicuri E. \emph{Effectiveness of private sector malaria control: the case of sugarcane workers in Southern Mozambique} \href{http://www.ihmt.unl.pt/en/workshop-malaria-transmission-en/}{Malaria transmission: current challenges and new tools in the elimination context} \\
+Lisbon, Portugal \hfill \emph{(2017)}\\
+
+\noindent \textbf{Brew J}, Sicuri E. \emph{Silent pessimists: researchers' perceptions of malaria eradication and implications for health spending} \href{http://www.ectmih2017.be/}{European Conference of Tropical Medicine and Internaltional Health} \\
+Anbwerp, Belgium \hfill \emph{(2017)}\\
+
+\noindent \textbf{Brew J}, Sicuri E. \emph{Silent pessimists: researchers' perceptions of malaria eradication and implications for health spending} \href{http://www.ectmih2017.be/}{European Conference of Tropical Medicine and Internaltional Health} \\
+Anbwerp, Belgium \hfill \emph{(2017)}\\
+
+\noindent \textbf{Brew J}, Cirera L, Thomas R, Sicuri E. \emph{Short-term effectiveness of a malaria elimination campaign in Southern Mozambique} \href{http://www.ectmih2017.be/}{European Conference of Tropical Medicine and Internaltional Health} \\
+Anbwerp, Belgium \hfill \emph{(2017)}\\
+
+\noindent \textbf{Brew J}, Cirera L, Vall J., Sicuri E. \emph{The educational impact of a malaria elimination campaign} \href{https://www.healtheconomics.org/page/BostonCongress2017}{Revolutions in the Economics of Health Systems: Congress of the International Health Economics Association} \\
+Boston, USA \hfill \emph{(2017)}\\
+
 
 \noindent \textbf{Brew J}, Cirera L, Sicuri E. \emph{The economic benefits of a malaria elimination campaign in Southern Mozambique.} \href{http://afhea.org/en/conferences/conference-2016-rabat}{African Health Economics Association Conference: The sustainable development goals, the grand convergence, and health in Africa.} \\
 Rabat, Morocco \hfill \emph{(2016)}\\
