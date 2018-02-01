@@ -24,8 +24,8 @@
 \begin{Huge}
 \scshape{Joe Brew}\\
 \end{Huge}
-joebrew@gmail.com \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
-+36 666 66 80 86 \hfill Barcelona, 08027 (Spain)  \\
+joebrew@gmail.com \hfill  Eerste Helmersstraat 275-3 \\
++31 655 936 200 \hfill 1054 DZ, Amsterdam (Netherlands)  \\
 +258 843 919 189 \hfill CISM, Vila da Manhiça, Bairro Cambeve, Rua 12 \\
 \href{https://orcid.org/0000-0002-4119-0117}{orcid.org/0000-0002-4119-0117} 
 \hfill Distrito da Manhiça, CP 1929, Maputo (Mozambique) \\
@@ -83,7 +83,7 @@ joebrew@gmail.com \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
 % \textbf{Computer}
 % \end{center}
 
-\noindent \emph{Expert:} R, SAS, Stata\\
+\noindent \emph{Expert:} R, SAS, Stata, SQL\\
 \noindent \emph{Professional:} Python, SPSS, Ruby\\
 \noindent \emph{Proficient:} Javascript, HTML, CSS
 
@@ -98,7 +98,7 @@ joebrew@gmail.com \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
 \line(1,0){200}
 \vspace{2mm}
 
-\noindent \textbf{PhD} (in progress) \hfill \emph{January 2016-}\\
+\noindent \textbf{PhD}: Economics (in progress)\hfill \emph{January 2016-}\\
 \noindent \emph{Institut de Salut Global (host institution)} \hfill \textsc{Barcelona, Spain} \\
 \noindent \emph{Vrije Universiteit (secondary institution)} \hfill \textsc{Amsterdam, Holland} \\
 \noindent \emph{Centro de Investigaçao em Saude de Manhiça (research site)} \hfill \textsc{Manhiça, Mozambique}
@@ -108,7 +108,7 @@ joebrew@gmail.com \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
 \item Coursework in economics, epidemiology, evaluation and policy
 \item Research on the cost effectiveness and efficacy of malaria control and elimination interventions
 \end{itemize}
-\noindent \textbf{Master of Public Health} \hfill \emph{September 2011 - July 2013} \\
+\noindent \textbf{Master of Public Health}: Epidemiology \hfill \emph{September 2011 - July 2013} \\
 \noindent \emph{Kobenhavns Universitet} (year 2) \hfill \textsc{Copenhagen, Denmark} \\
 \noindent \emph{Escuela Andaluza de Salud Pública} (year 1) \hfill \textsc{Granada, Spain}
 
@@ -119,7 +119,7 @@ joebrew@gmail.com \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
 \end{itemize}
 
 
-\noindent \textbf{Master of Arts}\hfill \emph{September 2009-June 2010}\\
+\noindent \textbf{Master of Arts}: Diplomacy\hfill \emph{September 2009-June 2010}\\
 \noindent \emph{Institut Catholique de Paris} \hfill \textsc{Paris, France}
 \vspace{-2mm}
 \begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
@@ -127,7 +127,7 @@ joebrew@gmail.com \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
 \item MA in Contemporary Diplomatic History, with fieldwork on the secret diplomacy which ended the Vietnam War through the Paris Peace Accords
 \end{itemize}
 
-\noindent \textbf{Bachelor of Arts} \hfill \emph{August 2004-May 2008}\\
+\noindent \textbf{Bachelor of Arts}: Liberal arts \hfill \emph{August 2004-May 2008}\\
 \noindent \emph{Sewanee: The University of the South} \hfill \textsc{Sewanee, TN, USA}
 \vspace{-2mm}
 \begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
@@ -148,6 +148,8 @@ joebrew@gmail.com \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection*{Peer-reviewed papers}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\noindent Chaccour C, Alonso S, Zulliger R, Wagman J, Saifodine A, Candrinho B, Macete E, \textbf{Brew J}, Fornadel C, Kassim H, Loch L, Sacoor C, Varela K,  Carty C, Robertson  M , Saute F \emph{Combination of indoor residual spraying with long-lasting insecticide-treated nets for malaria control in Zambezia, Mozambique: a cluster randomised trial and cost-effectiveness study protocol.} \href{http://gh.bmj.com/content/3/1/e000610}{BMJ Global Health} \\ DOI: 10.1136/bmjgh-2017-000610 \hfill \emph{(2018)} \\
 
 \noindent García-Basteiro A, Mambuque E, Hertog A, Saavedra B, Cuamba I, Oliveras L, Blanco S, Bulo H, \textbf{Brew J}, Cuevas L, Cobelens F, Nhabomba A, Anthony R. \emph{IP-10 Kinetics in the First Week of Therapy are Strongly Associated with Bacteriological Confirmation of Tuberculosis Diagnosis in HIV-Infected Patients.} \href{https://www.nature.com/articles/s41598-017-13785-3}{Nature: Scientific Reports} \\ DOI: 10.1038/s41598-017-13785-3 \hfill \emph{(2017)} \\
 
@@ -171,7 +173,7 @@ DOI: 10.3201/eid2104.141375 \hfill \emph{(2015)}\\
 DOI:10.1136/jech-2014-205163 \hfill \emph{(2015)}\\
 
 
-\noindent Tran CH, Sugimoto JD, Pulliam JR, Ryan KA, Myers PD, Castleman JB, Doty R, Johnson J, Stringfellow J, Kovacevich N, \textbf{Brew J}, Cheung LL, Caron B, Lipori G, Harle CA, Alexander C, Yang Y, Longini IM Jr, Halloran ME, Morris JG, Small PA Jr. \emph{School-Located Influenza Vaccination Reduces Community Risk for Influenza and Influenza-Like Illness Emergency Care Visits.} \href{http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114479}{PLOS ONE} \\
+\noindent Tran C, Sugimoto J, Pulliam J, Ryan K, Myers P, Castleman J, Doty R, Johnson J, Stringfellow J, Kovacevich N, \textbf{Brew J}, Cheung L, Caron B, Lipori G, Harle C, Alexander C, Yang Y, Longini I, Halloran M, Morris JG, Small P. \emph{School-Located Influenza Vaccination Reduces Community Risk for Influenza and Influenza-Like Illness Emergency Care Visits.} \href{http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114479}{PLOS ONE} \\
 DOI: 10.1371/journal.pone.0114479 \hfill \emph{(2014)}\\
 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -185,22 +187,19 @@ DOI: 10.1371/journal.pone.0114479 \hfill \emph{(2014)}\\
 \subsection*{Conference presentations}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\noindent \textbf{Brew J}, Cirera L, Valls J, Sicuri E. \emph{Impact of a malaria elimination initiative on school outcomes in Southern Mozambique} \href{http://www.astmh.org/annual-meeting}{American Society of Tropical Medicine & Hygiene} \\
+\noindent Cirera L, \textbf{Brew J}, Valls J, Sicuri E. \emph{Impact of a malaria elimination initiative on school outcomes in Southern Mozambique} \href{http://www.astmh.org/annual-meeting}{American Society of Tropical Medicine & Hygiene} \\
 Baltimore, USA \hfill \emph{(2017)}\\
 
 \noindent \textbf{Brew J}, Gondo K, Dorkin E, Thomas R, Sicuri E. \emph{Effectiveness of private sector malaria control: the case of sugarcane workers in Southern Mozambique} \href{http://www.ihmt.unl.pt/en/workshop-malaria-transmission-en/}{Malaria transmission: current challenges and new tools in the elimination context} \\
 Lisbon, Portugal \hfill \emph{(2017)}\\
 
-\noindent \textbf{Brew J}, Sicuri E. \emph{Silent pessimists: researchers' perceptions of malaria eradication and implications for health spending} \href{http://www.ectmih2017.be/}{European Conference of Tropical Medicine and Internaltional Health} \\
-Anbwerp, Belgium \hfill \emph{(2017)}\\
-
-\noindent \textbf{Brew J}, Sicuri E. \emph{Silent pessimists: researchers' perceptions of malaria eradication and implications for health spending} \href{http://www.ectmih2017.be/}{European Conference of Tropical Medicine and Internaltional Health} \\
-Anbwerp, Belgium \hfill \emph{(2017)}\\
+\noindent \textbf{Brew J}, Broerse J, Pradhan M, Sicuri E. \emph{Silent pessimists: researchers' perceptions of malaria eradication and implications for health spending} \href{http://www.ectmih2017.be/}{European Conference of Tropical Medicine and Internaltional Health} \\
+Antwerp, Belgium \hfill \emph{(2017)}\\
 
 \noindent \textbf{Brew J}, Cirera L, Thomas R, Sicuri E. \emph{Short-term effectiveness of a malaria elimination campaign in Southern Mozambique} \href{http://www.ectmih2017.be/}{European Conference of Tropical Medicine and Internaltional Health} \\
-Anbwerp, Belgium \hfill \emph{(2017)}\\
+Antwerp, Belgium \hfill \emph{(2017)}\\
 
-\noindent \textbf{Brew J}, Cirera L, Vall J., Sicuri E. \emph{The educational impact of a malaria elimination campaign} \href{https://www.healtheconomics.org/page/BostonCongress2017}{Revolutions in the Economics of Health Systems: Congress of the International Health Economics Association} \\
+\noindent Cirera L, \textbf{Brew J}, Vall J., Sicuri E. \emph{The educational impact of a malaria elimination campaign} \href{https://www.healtheconomics.org/page/BostonCongress2017}{Revolutions in the Economics of Health Systems: Congress of the International Health Economics Association} \\
 Boston, USA \hfill \emph{(2017)}\\
 
 
@@ -246,7 +245,6 @@ and communicate their data through teaching and consulting (company)}\\
 
 
 
-\newpage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Experience} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \vspace{-7mm}
@@ -427,6 +425,8 @@ and communicate their data through teaching and consulting (company)}\\
 
 \noindent \textbf{Wilkins Scholarship}  \hfill \emph{2004}\\
 \noindent Merit and community award\\
+
+\newpage
 
 \section*{Community Service} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \vspace{-7mm}
