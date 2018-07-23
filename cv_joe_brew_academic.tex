@@ -1,4 +1,54 @@
-\documentclass[11pt]{article}
+\documentclass[11pt]{article}\usepackage[]{graphicx}\usepackage[]{color}
+%% maxwidth is the original width if it is less than linewidth
+%% otherwise use linewidth (to make sure the graphics do not exceed the margin)
+\makeatletter
+\def\maxwidth{ %
+  \ifdim\Gin@nat@width>\linewidth
+    \linewidth
+  \else
+    \Gin@nat@width
+  \fi
+}
+\makeatother
+
+\definecolor{fgcolor}{rgb}{0.345, 0.345, 0.345}
+\newcommand{\hlnum}[1]{\textcolor[rgb]{0.686,0.059,0.569}{#1}}%
+\newcommand{\hlstr}[1]{\textcolor[rgb]{0.192,0.494,0.8}{#1}}%
+\newcommand{\hlcom}[1]{\textcolor[rgb]{0.678,0.584,0.686}{\textit{#1}}}%
+\newcommand{\hlopt}[1]{\textcolor[rgb]{0,0,0}{#1}}%
+\newcommand{\hlstd}[1]{\textcolor[rgb]{0.345,0.345,0.345}{#1}}%
+\newcommand{\hlkwa}[1]{\textcolor[rgb]{0.161,0.373,0.58}{\textbf{#1}}}%
+\newcommand{\hlkwb}[1]{\textcolor[rgb]{0.69,0.353,0.396}{#1}}%
+\newcommand{\hlkwc}[1]{\textcolor[rgb]{0.333,0.667,0.333}{#1}}%
+\newcommand{\hlkwd}[1]{\textcolor[rgb]{0.737,0.353,0.396}{\textbf{#1}}}%
+\let\hlipl\hlkwb
+
+\usepackage{framed}
+\makeatletter
+\newenvironment{kframe}{%
+ \def\at@end@of@kframe{}%
+ \ifinner\ifhmode%
+  \def\at@end@of@kframe{\end{minipage}}%
+  \begin{minipage}{\columnwidth}%
+ \fi\fi%
+ \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
+ \colorbox{shadecolor}{##1}\hskip-\fboxsep
+     % There is no \\@totalrightmargin, so:
+     \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
+ \MakeFramed {\advance\hsize-\width
+   \@totalleftmargin\z@ \linewidth\hsize
+   \@setminipage}}%
+ {\par\unskip\endMakeFramed%
+ \at@end@of@kframe}
+\makeatother
+
+\definecolor{shadecolor}{rgb}{.97, .97, .97}
+\definecolor{messagecolor}{rgb}{0, 0, 0}
+\definecolor{warningcolor}{rgb}{1, 0, 1}
+\definecolor{errorcolor}{rgb}{1, 0, 0}
+\newenvironment{knitrout}{}{} % an empty environment to be redefined in TeX
+
+\usepackage{alltt}
 %\usepackage{charter} % Use the Charter font for the document text
 \usepackage{multicol}
 \usepackage{hyperref}
@@ -11,11 +61,11 @@
 \fancyhead{} % Blank out the default header
 \fancyfoot{} % Blank out the default footer
 \fancyhead[C]{joebrew@gmail.com $\bullet$ Joe Brew } % Custom header text
-\fancyfoot[RO,LE]{\thepage} % Custom footer text
-\usepackage{Sweave}
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 \begin{document}
 \newgeometry{margin=2.5cm}
-\input{cv_joe_brew_academic-concordance}
+% \SweaveOpts{concordance=TRUE, echo=FALSE, eval=TRUE, results=hide}
+
 
 \thispagestyle{plain}
 
@@ -25,13 +75,14 @@
 \begin{Huge}
 \scshape{Joe Brew}\\
 \end{Huge}
-joebrew@gmail.com \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
-+36 666 66 80 86 \hfill Barcelona, 08027 (Spain)  \\
-+258 843 919 189 \hfill CISM, Vila da Manhiça, Bairro Cambeve, Rua 12 \\
+\includegraphics[height=2em]{orcid} 
+
+joebrew@gmail.com \hfill  Plaça de l'Església, 18 \\
++34 666 66 80 86 \hfill Santa Coloma de Queralt, 43420, Tarragona (Catalunya)  \\
 \href{https://orcid.org/0000-0002-4119-0117}{orcid.org/0000-0002-4119-0117} 
-\hfill Distrito da Manhiça, CP 1929, Maputo (Mozambique) \\
-\href{http://www.scopus.com/inward/authorDetails.url?authorID=56442459000&partnerID=MN8TOARS}{Scopus ID: 56442459000} \hfill
-\href{http://economicsofmalaria.com}{www.economicsofmalaria.com} 
+\hfill \href{http://economicsofmalaria.com}{www.economicsofmalaria.com}  \\
+\href{http://www.scopus.com/inward/authorDetails.url?authorID=56442459000&partnerID=MN8TOARS}{Scopus ID: 56442459000} \hfill \href{http://databrew.cc}{www.databrew.cc} \\
+
 
 
 \hrulefill
@@ -84,7 +135,7 @@ joebrew@gmail.com \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
 % \textbf{Computer}
 % \end{center}
 
-\noindent \emph{Expert:} R, SAS, Stata\\
+\noindent \emph{Expert:} R, SAS, Stata, SQL\\
 \noindent \emph{Professional:} Python, SPSS, Ruby\\
 \noindent \emph{Proficient:} Javascript, HTML, CSS
 
@@ -99,7 +150,7 @@ joebrew@gmail.com \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
 \line(1,0){200}
 \vspace{2mm}
 
-\noindent \textbf{PhD} (in progress) \hfill \emph{January 2016-}\\
+\noindent \textbf{PhD}: Economics (in progress)\hfill \emph{January 2016-}\\
 \noindent \emph{Institut de Salut Global (host institution)} \hfill \textsc{Barcelona, Spain} \\
 \noindent \emph{Vrije Universiteit (secondary institution)} \hfill \textsc{Amsterdam, Holland} \\
 \noindent \emph{Centro de Investigaçao em Saude de Manhiça (research site)} \hfill \textsc{Manhiça, Mozambique}
@@ -109,7 +160,7 @@ joebrew@gmail.com \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
 \item Coursework in economics, epidemiology, evaluation and policy
 \item Research on the cost effectiveness and efficacy of malaria control and elimination interventions
 \end{itemize}
-\noindent \textbf{Master of Public Health} \hfill \emph{September 2011 - July 2013} \\
+\noindent \textbf{Master of Public Health}: Epidemiology \hfill \emph{September 2011 - July 2013} \\
 \noindent \emph{Kobenhavns Universitet} (year 2) \hfill \textsc{Copenhagen, Denmark} \\
 \noindent \emph{Escuela Andaluza de Salud Pública} (year 1) \hfill \textsc{Granada, Spain}
 
@@ -120,7 +171,7 @@ joebrew@gmail.com \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
 \end{itemize}
 
 
-\noindent \textbf{Master of Arts}\hfill \emph{September 2009-June 2010}\\
+\noindent \textbf{Master of Arts}: Diplomacy\hfill \emph{September 2009-June 2010}\\
 \noindent \emph{Institut Catholique de Paris} \hfill \textsc{Paris, France}
 \vspace{-2mm}
 \begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
@@ -128,7 +179,7 @@ joebrew@gmail.com \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
 \item MA in Contemporary Diplomatic History, with fieldwork on the secret diplomacy which ended the Vietnam War through the Paris Peace Accords
 \end{itemize}
 
-\noindent \textbf{Bachelor of Arts} \hfill \emph{August 2004-May 2008}\\
+\noindent \textbf{Bachelor of Arts}: Liberal arts \hfill \emph{August 2004-May 2008}\\
 \noindent \emph{Sewanee: The University of the South} \hfill \textsc{Sewanee, TN, USA}
 \vspace{-2mm}
 \begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
@@ -150,13 +201,19 @@ joebrew@gmail.com \hfill  Carrer de Cienfuegos, 10 / Entresol 2 \\
 \subsection*{Peer-reviewed papers}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\noindent García-Basteiro A, Miranda R, \textbf{Brew J}, et al. \enph{Tuberculosis on the rise in southern Mozambique (1997–2012)}. \href{http://erj.ersjournals.com}{European Respiratory Journal} \\
-DOI: 10.1183/13993003.01683-2016 \hfill \emph{(2017 [pre-publication])} \\
+\noindent García-Basteiro A, \textbf{Brew J}, Williams B, Borgdorff M, Cobelens F. \emph{What is the true tuberculosis mortality burden? Differences in estimates by the World Health Organization and the Global Burden of Disease study.} \href{https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyy144/5053290}{International Journal of Epidemiology} \\ DOI: 10.1093/ije/dyy144 \hfill \emph{(2018)} \\
+
+\noindent Chaccour C, Alonso S, Zulliger R, Wagman J, Saifodine A, Candrinho B, Macete E, \textbf{Brew J}, Fornadel C, Kassim H, Loch L, Sacoor C, Varela K,  Carty C, Robertson  M , Saute F. \emph{Combination of indoor residual spraying with long-lasting insecticide-treated nets for malaria control in Zambezia, Mozambique: a cluster randomised trial and cost-effectiveness study protocol.} \href{http://gh.bmj.com/content/3/1/e000610}{BMJ Global Health} \\ DOI: 10.1136/bmjgh-2017-000610 \hfill \emph{(2018)} \\
+
+\noindent García-Basteiro A, Mambuque E, Hertog A, Saavedra B, Cuamba I, Oliveras L, Blanco S, Bulo H, \textbf{Brew J}, Cuevas L, Cobelens F, Nhabomba A, Anthony R. \emph{IP-10 Kinetics in the First Week of Therapy are Strongly Associated with Bacteriological Confirmation of Tuberculosis Diagnosis in HIV-Infected Patients.} \href{https://www.nature.com/articles/s41598-017-13785-3}{Nature: Scientific Reports} \\ DOI: 10.1038/s41598-017-13785-3 \hfill \emph{(2017)} \\
+
+\noindent García-Basteiro A, Miranda R, \textbf{Brew J}, Sacoor C, Valencia S, Bulo H, Cobelens F, Macete E. \enph{Tuberculosis on the rise in southern Mozambique (1997–2012)}. \href{http://erj.ersjournals.com}{European Respiratory Journal} \\
+DOI: 10.1183/13993003.01683-2016 \hfill \emph{(2017)} \\
 
 \noindent Tran C, \textbf{Brew J}, Johnson N, Ryan K, Martin B, Cornett C, Caron B, Duncan R, Small P, Myers P, Morris J. \emph{Sustainability of School-located Influenza Vaccination Programs in Florida.} \href{http://www.journals.elsevier.com/vaccine}{Vaccine} \\
 DOI: 10.1016/j.vaccine.2016.04.017 \hfill \emph{(2016)} \\
 
-\noindent Lednicky J, Iovine N, \textbf{Brew J}, Loeb J, Sugimoto J, Rand K, Morris J. \emph{Hemagglutinin Gene Clade 3C.2a Influenza A(H3N2) Viruses, Alachua County, Florida, USA, 2014–15.} \href{http://wwwnc.cdc.gov/eid/article/22/1/15-1019_article}{Emerging Infectious Diseases} \\
+\noindent Lednicky J, Iovine N, \textbf{Brew J}, Loeb J, Sugimoto J, Rand K, Morris J. \emph{Hemagglutinin Gene Clade 3C.2a Influenza A(H3N2) Viruses, Alachua County, Florida, USA.} \href{http://wwwnc.cdc.gov/eid/article/22/1/15-1019_article}{Emerging Infectious Diseases} \\
 DOI: 10.3201/eid2201.151019 \hfill \emph{(2016)} \\
 
 \noindent Potash E, \textbf{Brew J}, Loewi A, Majumdar S, Reece A, Walsh J, Rozier E, Jorgenson E, Mansour R, Ghani R. \emph{Predictive Modeling for Public Health: Preventing Childhood Lead Poisoning.} \href{http://dl.acm.org/citation.cfm?id=2788629&dl=ACM&coll=DL&CFID=747855435&CFTOKEN=56343631}{ACM SIGKDD International Conference on Knowledge Discovery and Data Mining} \\  
@@ -170,7 +227,7 @@ DOI: 10.3201/eid2104.141375 \hfill \emph{(2015)}\\
 DOI:10.1136/jech-2014-205163 \hfill \emph{(2015)}\\
 
 
-\noindent Tran CH, Sugimoto JD, Pulliam JR, Ryan KA, Myers PD, Castleman JB, Doty R, Johnson J, Stringfellow J, Kovacevich N, \textbf{Brew J}, Cheung LL, Caron B, Lipori G, Harle CA, Alexander C, Yang Y, Longini IM Jr, Halloran ME, Morris JG, Small PA Jr. \emph{School-Located Influenza Vaccination Reduces Community Risk for Influenza and Influenza-Like Illness Emergency Care Visits.} \href{http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114479}{PLOS ONE} \\
+\noindent Tran C, Sugimoto J, Pulliam J, Ryan K, Myers P, Castleman J, Doty R, Johnson J, Stringfellow J, Kovacevich N, \textbf{Brew J}, Cheung L, Caron B, Lipori G, Harle C, Alexander C, Yang Y, Longini I, Halloran M, Morris JG, Small P. \emph{School-Located Influenza Vaccination Reduces Community Risk for Influenza and Influenza-Like Illness Emergency Care Visits.} \href{http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114479}{PLOS ONE} \\
 DOI: 10.1371/journal.pone.0114479 \hfill \emph{(2014)}\\
 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -183,6 +240,22 @@ DOI: 10.1371/journal.pone.0114479 \hfill \emph{(2014)}\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection*{Conference presentations}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\noindent Cirera L, \textbf{Brew J}, Valls J, Sicuri E. \emph{Impact of a malaria elimination initiative on school outcomes in Southern Mozambique} \href{http://www.astmh.org/annual-meeting}{American Society of Tropical Medicine & Hygiene} \\
+Baltimore, USA \hfill \emph{(2017)}\\
+
+\noindent \textbf{Brew J}, Gondo K, Dorkin E, Thomas R, Sicuri E. \emph{Effectiveness of private sector malaria control: the case of sugarcane workers in Southern Mozambique} \href{http://www.ihmt.unl.pt/en/workshop-malaria-transmission-en/}{Malaria transmission: current challenges and new tools in the elimination context} \\
+Lisbon, Portugal \hfill \emph{(2017)}\\
+
+\noindent \textbf{Brew J}, Broerse J, Pradhan M, Sicuri E. \emph{Silent pessimists: researchers' perceptions of malaria eradication and implications for health spending} \href{http://www.ectmih2017.be/}{European Conference of Tropical Medicine and Internaltional Health} \\
+Antwerp, Belgium \hfill \emph{(2017)}\\
+
+\noindent \textbf{Brew J}, Cirera L, Thomas R, Sicuri E. \emph{Short-term effectiveness of a malaria elimination campaign in Southern Mozambique} \href{http://www.ectmih2017.be/}{European Conference of Tropical Medicine and Internaltional Health} \\
+Antwerp, Belgium \hfill \emph{(2017)}\\
+
+\noindent Cirera L, \textbf{Brew J}, Vall J., Sicuri E. \emph{The educational impact of a malaria elimination campaign} \href{https://www.healtheconomics.org/page/BostonCongress2017}{Revolutions in the Economics of Health Systems: Congress of the International Health Economics Association} \\
+Boston, USA \hfill \emph{(2017)}\\
+
 
 \noindent \textbf{Brew J}, Cirera L, Sicuri E. \emph{The economic benefits of a malaria elimination campaign in Southern Mozambique.} \href{http://afhea.org/en/conferences/conference-2016-rabat}{African Health Economics Association Conference: The sustainable development goals, the grand convergence, and health in Africa.} \\
 Rabat, Morocco \hfill \emph{(2016)}\\
@@ -226,7 +299,6 @@ and communicate their data through teaching and consulting (company)}\\
 
 
 
-\newpage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Experience} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \vspace{-7mm}
@@ -407,6 +479,8 @@ and communicate their data through teaching and consulting (company)}\\
 
 \noindent \textbf{Wilkins Scholarship}  \hfill \emph{2004}\\
 \noindent Merit and community award\\
+
+\newpage
 
 \section*{Community Service} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \vspace{-7mm}

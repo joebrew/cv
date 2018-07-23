@@ -24,13 +24,14 @@
 \begin{Huge}
 \scshape{Joe Brew}\\
 \end{Huge}
-joebrew@gmail.com \hfill  Eerste Helmersstraat 275-3 \\
-+31 655 936 200 \hfill 1054 DZ, Amsterdam (Netherlands)  \\
-+258 843 919 189 \hfill CISM, Vila da Manhiça, Bairro Cambeve, Rua 12 \\
+\includegraphics[height=2em]{orcid} 
+
+joebrew@gmail.com \hfill  Plaça de l'Església, 18 \\
++34 666 66 80 86 \hfill Santa Coloma de Queralt, 43420, Tarragona (Catalunya)  \\
 \href{https://orcid.org/0000-0002-4119-0117}{orcid.org/0000-0002-4119-0117} 
-\hfill Distrito da Manhiça, CP 1929, Maputo (Mozambique) \\
-\href{http://www.scopus.com/inward/authorDetails.url?authorID=56442459000&partnerID=MN8TOARS}{Scopus ID: 56442459000} \hfill
-\href{http://economicsofmalaria.com}{www.economicsofmalaria.com} 
+\hfill \href{http://economicsofmalaria.com}{www.economicsofmalaria.com}  \\
+\href{http://www.scopus.com/inward/authorDetails.url?authorID=56442459000&partnerID=MN8TOARS}{Scopus ID: 56442459000} \hfill \href{http://databrew.cc}{www.databrew.cc} \\
+
 
 
 \hrulefill
@@ -149,7 +150,9 @@ joebrew@gmail.com \hfill  Eerste Helmersstraat 275-3 \\
 \subsection*{Peer-reviewed papers}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\noindent Chaccour C, Alonso S, Zulliger R, Wagman J, Saifodine A, Candrinho B, Macete E, \textbf{Brew J}, Fornadel C, Kassim H, Loch L, Sacoor C, Varela K,  Carty C, Robertson  M , Saute F \emph{Combination of indoor residual spraying with long-lasting insecticide-treated nets for malaria control in Zambezia, Mozambique: a cluster randomised trial and cost-effectiveness study protocol.} \href{http://gh.bmj.com/content/3/1/e000610}{BMJ Global Health} \\ DOI: 10.1136/bmjgh-2017-000610 \hfill \emph{(2018)} \\
+\noindent García-Basteiro A, \textbf{Brew J}, Williams B, Borgdorff M, Cobelens F. \emph{What is the true tuberculosis mortality burden? Differences in estimates by the World Health Organization and the Global Burden of Disease study.} \href{https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyy144/5053290}{International Journal of Epidemiology} \\ DOI: 10.1093/ije/dyy144 \hfill \emph{(2018)} \\
+
+\noindent Chaccour C, Alonso S, Zulliger R, Wagman J, Saifodine A, Candrinho B, Macete E, \textbf{Brew J}, Fornadel C, Kassim H, Loch L, Sacoor C, Varela K,  Carty C, Robertson  M , Saute F. \emph{Combination of indoor residual spraying with long-lasting insecticide-treated nets for malaria control in Zambezia, Mozambique: a cluster randomised trial and cost-effectiveness study protocol.} \href{http://gh.bmj.com/content/3/1/e000610}{BMJ Global Health} \\ DOI: 10.1136/bmjgh-2017-000610 \hfill \emph{(2018)} \\
 
 \noindent García-Basteiro A, Mambuque E, Hertog A, Saavedra B, Cuamba I, Oliveras L, Blanco S, Bulo H, \textbf{Brew J}, Cuevas L, Cobelens F, Nhabomba A, Anthony R. \emph{IP-10 Kinetics in the First Week of Therapy are Strongly Associated with Bacteriological Confirmation of Tuberculosis Diagnosis in HIV-Infected Patients.} \href{https://www.nature.com/articles/s41598-017-13785-3}{Nature: Scientific Reports} \\ DOI: 10.1038/s41598-017-13785-3 \hfill \emph{(2017)} \\
 
@@ -159,7 +162,7 @@ DOI: 10.1183/13993003.01683-2016 \hfill \emph{(2017)} \\
 \noindent Tran C, \textbf{Brew J}, Johnson N, Ryan K, Martin B, Cornett C, Caron B, Duncan R, Small P, Myers P, Morris J. \emph{Sustainability of School-located Influenza Vaccination Programs in Florida.} \href{http://www.journals.elsevier.com/vaccine}{Vaccine} \\
 DOI: 10.1016/j.vaccine.2016.04.017 \hfill \emph{(2016)} \\
 
-\noindent Lednicky J, Iovine N, \textbf{Brew J}, Loeb J, Sugimoto J, Rand K, Morris J. \emph{Hemagglutinin Gene Clade 3C.2a Influenza A(H3N2) Viruses, Alachua County, Florida, USA, 2014–15.} \href{http://wwwnc.cdc.gov/eid/article/22/1/15-1019_article}{Emerging Infectious Diseases} \\
+\noindent Lednicky J, Iovine N, \textbf{Brew J}, Loeb J, Sugimoto J, Rand K, Morris J. \emph{Hemagglutinin Gene Clade 3C.2a Influenza A(H3N2) Viruses, Alachua County, Florida, USA.} \href{http://wwwnc.cdc.gov/eid/article/22/1/15-1019_article}{Emerging Infectious Diseases} \\
 DOI: 10.3201/eid2201.151019 \hfill \emph{(2016)} \\
 
 \noindent Potash E, \textbf{Brew J}, Loewi A, Majumdar S, Reece A, Walsh J, Rozier E, Jorgenson E, Mansour R, Ghani R. \emph{Predictive Modeling for Public Health: Preventing Childhood Lead Poisoning.} \href{http://dl.acm.org/citation.cfm?id=2788629&dl=ACM&coll=DL&CFID=747855435&CFTOKEN=56343631}{ACM SIGKDD International Conference on Knowledge Discovery and Data Mining} \\  

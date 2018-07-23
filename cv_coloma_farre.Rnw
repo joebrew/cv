@@ -1,0 +1,163 @@
+\documentclass[11pt]{article}
+%\usepackage{charter} % Use the Charter font for the document text
+\usepackage{multicol}
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{fancyhdr} % Headers and footers
+\pagestyle{fancy} % All pages have headers and footers
+\fancyhead{} % Blank out the default header
+\fancyfoot{} % Blank out the default footer
+\fancyhead[C]{coloma.farre@gmail.com $\bullet$ Coloma Farré López } % Custom header text
+\fancyfoot[RO,LE]{\thepage} % Custom footer text
+\begin{document}
+\newgeometry{margin=2.5cm}
+\SweaveOpts{concordance=TRUE, echo=FALSE, eval=TRUE, results=hide}
+
+<<>>=
+name <- "Coloma Farré López"
+email <- "coloma.farre@gmail.com"
+phone <- "+33 666 66 80 86"
+@
+\thispagestyle{plain}
+
+\begin{center}
+
+
+\begin{Huge}
+\scshape{\Sexpr{name}}\\
+\end{Huge}
+\vspace{10mm}
+\Sexpr{email} \hfill  Carreterra Igualada 61 \\
+\Sexpr{phone} \hfill Santa Coloma de Queralt, 43420 (Tarragona)  \\
+\href{http://familyonthego.life}{www.familyonthego.life} \hfill Spain  \\
+
+\hrulefill
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Summary} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-7mm}
+\line(1,0){200}
+\vspace{2mm}
+
+\noindent I am an enthusiastic, caring and competent teacher with a background in child development and psychology.
+ I have studied and volunteered internationally, grew up bilingually and have classroom experience
+ teaching in diverse contexts to students of all backgrounds. I look forward to applying my knowledge and
+ experience in a new multicultural environment.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Education} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-7mm}
+\line(1,0){200}
+\vspace{2mm}
+
+\noindent \textbf{Licenciatura} (Master's) \hfill \emph{2009}\\
+\noindent \emph{Psicopedagogía (Educational Psychology)} \hfill \textsc{University of Barcelona} \\
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\vspace{-3mm}
+\item Erasmus semester at Hogeschool Utrecht (Netherlands).
+\item Thesis project on "Interculturalisation and Diversity in Education".
+\end{itemize}
+
+\noindent \textbf{Diplomatura} (Bachelor's) \hfill \emph{2006}\\
+\noindent \emph{Educación Infantil (Early Childhood Education)} \hfill \textsc{University of Barcelona} \\
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Experience} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-7mm}
+\line(1,0){200}
+\vspace{2mm}
+
+\noindent \textbf{Teacher} \hfill \textsc{Manhiça, Mozambique}\\
+\noindent \emph{Escolinha Santa Teresinha do Menino Jesus} \hfill \emph{January 2017 - May 2017}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Volunteer teacher at pre-school in rural Mozambique.
+\item Supervise and assist in a diversity of activities (instruction, play, meal, nap) in low-resource context.
+
+\end{itemize}
+
+
+\noindent \textbf{Assistant and afterschool teacher} \hfill \textsc{Gainesville, FL, USA}\\
+\noindent \emph{Morning Meadow Waldorf School} \hfill \emph{August 2014 - May 2015}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Teacher in small pre-school in southern United States.
+\item Assisted in both academic and extra-curricular supervision and instruction.
+\end{itemize}
+
+\noindent \textbf{Spanish teacher} \hfill \textsc{Gainesville, FL, USA}\\
+\noindent \emph{Hear Pine Waldorf School} \hfill \emph{September 2013 - May 2015}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Head Spanish teacher to all grades (1-6).
+\item Assistant teacher for all subjects. 
+\item Head of after-school.
+\end{itemize}
+
+\noindent \textbf{Kindergarten teacher} \hfill \textsc{Barcelona, Spain}\\
+\noindent \emph{Escola Pàlcam} \hfill \emph{September 2011 - July 2013}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Head teacher of 5-6 year-old class.
+\item Organized, prepared course content, conducted parent interviews, carried out student evaluation, coordinate work with other teachers.
+\end{itemize}
+
+
+\noindent \textbf{Preschool teacher} \hfill \textsc{Barcelona, Spain}\\
+\noindent \emph{Nemomarlin Barcelona} \hfill \emph{October 2009 - July 2011}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Taught children aged 1-3.
+\item Supervised activities during whole day (lunch, nap, educational activities).
+\end{itemize}
+
+\noindent \textbf{Summer School Coordinator} \hfill \textsc{Santa Coloma de Queralt, Spain}\\
+\noindent \emph{Mare de Déu del Carme} \hfill \emph{July 2005 - August 2009}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Taught and supervised children 2-8 years of age.
+\item Coordinated, planned and carried out activities and outings.
+\end{itemize}
+
+\noindent \textbf{Children's Choir Director} \hfill \textsc{Santa Coloma de Queralt, Spain}\\
+\noindent \emph{Corxeretes Chorus} \hfill \emph{January 2006 - July 2008}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Organized music classes, concerts, and weekend activities.
+\item Taught and reheared songs.
+\end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Languages} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-7mm}
+\line(1,0){200}
+\vspace{2mm}
+
+\noindent \emph{Native:} Spanish, Catalan\\
+\noindent \emph{Fluent:} English, Portuguese\\
+\noindent \emph{Basic:} Dutch, French \\
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section*{Personal} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-7mm}
+\line(1,0){200}
+\vspace{2mm}
+
+\noindent \href{www.familyonthego.life}{www.familyonthego.life}
+
+
+\end{document}
