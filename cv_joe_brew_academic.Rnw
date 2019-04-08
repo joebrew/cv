@@ -12,6 +12,7 @@
 \fancyfoot{} % Blank out the default footer
 \fancyhead[C]{joebrew@gmail.com $\bullet$ Joe Brew } % Custom header text
 \begin{document}
+\SweaveOpts{concordance=TRUE}
 \newgeometry{margin=2.5cm}
 % \SweaveOpts{concordance=TRUE, echo=FALSE, eval=TRUE, results=hide}
 
@@ -24,10 +25,10 @@
 \begin{Huge}
 \scshape{Joe Brew}\\
 \end{Huge}
-\includegraphics[height=2em]{orcid} 
+% \includegraphics[height=2em]{orcid} 
 
-joebrew@gmail.com \hfill  Plaça de l'Església, 18 \\
-+34 666 66 80 86 \hfill Santa Coloma de Queralt, 43420, Tarragona (Catalunya)  \\
+joebrew@gmail.com \hfill \\
++34 666 66 80 86 \hfill  \\
 \href{https://orcid.org/0000-0002-4119-0117}{orcid.org/0000-0002-4119-0117} 
 \hfill \href{http://economicsofmalaria.com}{www.economicsofmalaria.com}  \\
 \href{http://www.scopus.com/inward/authorDetails.url?authorID=56442459000&partnerID=MN8TOARS}{Scopus ID: 56442459000} \hfill \href{http://databrew.cc}{www.databrew.cc} \\
@@ -84,8 +85,8 @@ joebrew@gmail.com \hfill  Plaça de l'Església, 18 \\
 % \textbf{Computer}
 % \end{center}
 
-\noindent \emph{Expert:} R, SAS, Stata, SQL\\
-\noindent \emph{Professional:} Python, SPSS, Ruby\\
+\noindent \emph{Expert:} R, SAS, SQL\\
+\noindent \emph{Professional:} Python, Stata, SPSS, Ruby\\
 \noindent \emph{Proficient:} Javascript, HTML, CSS
 
 
@@ -149,6 +150,9 @@ joebrew@gmail.com \hfill  Plaça de l'Església, 18 \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection*{Peer-reviewed papers}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\noindent Imbahale S, Montaña J, \textbf{Brew J}, Paaijmans K, Rist C, Chaccour C. \emph{Mapping the potential use of endectocide-treated cattle to reduce malaria transmission.} \href{www.nature.com/articles/s41598-019-42356-x}{Nature: Scientific Reports} \\ DOI: 10.1038/s41598-019-42356-x \hfill \emph{(2019)} \\
+
 
 \noindent García-Basteiro A, \textbf{Brew J}, Williams B, Borgdorff M, Cobelens F. \emph{What is the true tuberculosis mortality burden? Differences in estimates by the World Health Organization and the Global Burden of Disease study.} \href{https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyy144/5053290}{International Journal of Epidemiology} \\ DOI: 10.1093/ije/dyy144 \hfill \emph{(2018)} \\
 
