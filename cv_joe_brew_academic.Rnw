@@ -150,7 +150,10 @@ joe@databrew.cc \hfill \\
 \subsection*{Peer-reviewed papers}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\noindent Knoblauch A, de la Rosa S, Sherman J, Blauvelt C, Matemba C, Maxim L, Defawe O, Gueye A, Robertson J, McKinney J, \textbf{Brew J}, Paz E, Small P, Tanner M, Rakotosamimanana N, Grandjean S. \emph{Bi-directional drones to strengthen healthcare provision: experiences and lessons from Madagascar, Malawi and Senegal} \href{https://dx.doi.org/10.1136/bmjgh-2019-001541}{BMJ Global Health} \\ DOI: 10.1136/bmjgh-2019-001541 \hfill \emph{(Accepted, 2019)} \\
+\noindent Knoblauch A, de la Rosa S, Sherman J, Blauvelt C, Matemba C, Maxim L, Defawe O, Gueye A, Robertson J, McKinney J, \textbf{Brew J}, Paz E, Small P, Tanner M, Rakotosamimanana N, Grandjean S. \emph{Bi-directional drones to strengthen healthcare provision: experiences and lessons from Madagascar, Malawi and Senegal} \href{https://dx.doi.org/10.1136/bmjgh-2019-001541}{BMJ Global Health} \\ DOI: 10.1136/bmjgh-2019-001541 \hfill \emph{(2019)} \\
+
+\noindent Fonseca, AM, González R, Bardaji A,... \textbf{Brew J},... Mayor A. \emph{VAR2CSA Serology to Detect Plasmodium falciparum Transmission Patterns.} \href{https://wwwnc.cdc.gov/eid/article/25/10/18-1177_article}{Emerging Infectious Diseases} \\ DOI: 10.3201/eid2510.181177 \hfill \emph{(2019)} \\  
+
 
 \noindent Imbahale S, Montaña J, \textbf{Brew J}, Paaijmans K, Rist C, Chaccour C. \emph{Mapping the potential use of endectocide-treated cattle to reduce malaria transmission.} \href{www.nature.com/articles/s41598-019-42356-x}{Nature: Scientific Reports} \\ DOI: 10.1038/s41598-019-42356-x \hfill \emph{(2019)} \\
 
