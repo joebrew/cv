@@ -1,54 +1,4 @@
-\documentclass[11pt]{article}\usepackage[]{graphicx}\usepackage[]{color}
-%% maxwidth is the original width if it is less than linewidth
-%% otherwise use linewidth (to make sure the graphics do not exceed the margin)
-\makeatletter
-\def\maxwidth{ %
-  \ifdim\Gin@nat@width>\linewidth
-    \linewidth
-  \else
-    \Gin@nat@width
-  \fi
-}
-\makeatother
-
-\definecolor{fgcolor}{rgb}{0.345, 0.345, 0.345}
-\newcommand{\hlnum}[1]{\textcolor[rgb]{0.686,0.059,0.569}{#1}}%
-\newcommand{\hlstr}[1]{\textcolor[rgb]{0.192,0.494,0.8}{#1}}%
-\newcommand{\hlcom}[1]{\textcolor[rgb]{0.678,0.584,0.686}{\textit{#1}}}%
-\newcommand{\hlopt}[1]{\textcolor[rgb]{0,0,0}{#1}}%
-\newcommand{\hlstd}[1]{\textcolor[rgb]{0.345,0.345,0.345}{#1}}%
-\newcommand{\hlkwa}[1]{\textcolor[rgb]{0.161,0.373,0.58}{\textbf{#1}}}%
-\newcommand{\hlkwb}[1]{\textcolor[rgb]{0.69,0.353,0.396}{#1}}%
-\newcommand{\hlkwc}[1]{\textcolor[rgb]{0.333,0.667,0.333}{#1}}%
-\newcommand{\hlkwd}[1]{\textcolor[rgb]{0.737,0.353,0.396}{\textbf{#1}}}%
-\let\hlipl\hlkwb
-
-\usepackage{framed}
-\makeatletter
-\newenvironment{kframe}{%
- \def\at@end@of@kframe{}%
- \ifinner\ifhmode%
-  \def\at@end@of@kframe{\end{minipage}}%
-  \begin{minipage}{\columnwidth}%
- \fi\fi%
- \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
- \colorbox{shadecolor}{##1}\hskip-\fboxsep
-     % There is no \\@totalrightmargin, so:
-     \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
- \MakeFramed {\advance\hsize-\width
-   \@totalleftmargin\z@ \linewidth\hsize
-   \@setminipage}}%
- {\par\unskip\endMakeFramed%
- \at@end@of@kframe}
-\makeatother
-
-\definecolor{shadecolor}{rgb}{.97, .97, .97}
-\definecolor{messagecolor}{rgb}{0, 0, 0}
-\definecolor{warningcolor}{rgb}{1, 0, 1}
-\definecolor{errorcolor}{rgb}{1, 0, 0}
-\newenvironment{knitrout}{}{} % an empty environment to be redefined in TeX
-
-\usepackage{alltt}
+\documentclass[11pt]{article}
 %\usepackage{charter} % Use the Charter font for the document text
 \usepackage{multicol}
 \usepackage{hyperref}
@@ -61,8 +11,9 @@
 \fancyhead{} % Blank out the default header
 \fancyfoot{} % Blank out the default footer
 \fancyhead[C]{joebrew@gmail.com $\bullet$ Joe Brew } % Custom header text
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\usepackage{Sweave}
 \begin{document}
+\input{cv_joe_brew_academic-concordance}
 \newgeometry{margin=2.5cm}
 % \SweaveOpts{concordance=TRUE, echo=FALSE, eval=TRUE, results=hide}
 
@@ -75,12 +26,12 @@
 \begin{Huge}
 \scshape{Joe Brew}\\
 \end{Huge}
-\includegraphics[height=2em]{orcid} 
+% \includegraphics[height=2em]{orcid} 
 
-joebrew@gmail.com \hfill  Plaça de l'Església, 18 \\
-+34 666 66 80 86 \hfill Santa Coloma de Queralt, 43420, Tarragona (Catalunya)  \\
+joe@databrew.cc \hfill \\
++34 666 66 80 86 \hfill  \\
 \href{https://orcid.org/0000-0002-4119-0117}{orcid.org/0000-0002-4119-0117} 
-\hfill \href{http://economicsofmalaria.com}{www.economicsofmalaria.com}  \\
+\hfill  \\
 \href{http://www.scopus.com/inward/authorDetails.url?authorID=56442459000&partnerID=MN8TOARS}{Scopus ID: 56442459000} \hfill \href{http://databrew.cc}{www.databrew.cc} \\
 
 
@@ -135,9 +86,9 @@ joebrew@gmail.com \hfill  Plaça de l'Església, 18 \\
 % \textbf{Computer}
 % \end{center}
 
-\noindent \emph{Expert:} R, SAS, Stata, SQL\\
-\noindent \emph{Professional:} Python, SPSS, Ruby\\
-\noindent \emph{Proficient:} Javascript, HTML, CSS
+\noindent \emph{Expert:} R, SQL, Linux\\
+\noindent \emph{Professional:} Python, SAS, Stata, SPSS\\
+\noindent \emph{Proficient:} Javascript, HTML, CSS, Ruby
 
 
 \end{multicols}
@@ -150,7 +101,7 @@ joebrew@gmail.com \hfill  Plaça de l'Església, 18 \\
 \line(1,0){200}
 \vspace{2mm}
 
-\noindent \textbf{PhD}: Economics (in progress)\hfill \emph{January 2016-}\\
+\noindent \textbf{PhD}: Economics (in progress: coursework completed, pending defense)\hfill \emph{January 2016-}\\
 \noindent \emph{Institut de Salut Global (host institution)} \hfill \textsc{Barcelona, Spain} \\
 \noindent \emph{Vrije Universiteit (secondary institution)} \hfill \textsc{Amsterdam, Holland} \\
 \noindent \emph{Centro de Investigaçao em Saude de Manhiça (research site)} \hfill \textsc{Manhiça, Mozambique}
@@ -171,7 +122,7 @@ joebrew@gmail.com \hfill  Plaça de l'Església, 18 \\
 \end{itemize}
 
 
-\noindent \textbf{Master of Arts}: Diplomacy\hfill \emph{September 2009-June 2010}\\
+\noindent \textbf{Master of Arts}: Diplomatic history\hfill \emph{September 2009-June 2010}\\
 \noindent \emph{Institut Catholique de Paris} \hfill \textsc{Paris, France}
 \vspace{-2mm}
 \begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
@@ -195,11 +146,21 @@ joebrew@gmail.com \hfill  Plaça de l'Església, 18 \\
 \line(1,0){200}
 \vspace{2mm}
 
-% \noindent \textsc{(The following [and more] are available upon request)}\\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection*{Peer-reviewed papers}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\noindent \textbf{Brew J}, Sauboin C. \emph{A Systematic Review of the Incremental Costs of Implementing a New Vaccine in the Expanded Program of Immunization in Sub-Saharan Africa} \href{https://doi.org/10.1177/2381468319894546}{MDM Policy & Practice} \\ DOI: 10.1177/2381468319894546 \hfill \emph{(2019)} \\
+
+\noindent Knoblauch A, de la Rosa S, Sherman J, Blauvelt C, Matemba C, Maxim L, Defawe O, Gueye A, Robertson J, McKinney J, \textbf{Brew J}, Paz E, Small P, Tanner M, Rakotosamimanana N, Grandjean S. \emph{Bi-directional drones to strengthen healthcare provision: experiences and lessons from Madagascar, Malawi and Senegal} \href{https://dx.doi.org/10.1136/bmjgh-2019-001541}{BMJ Global Health} \\ DOI: 10.1136/bmjgh-2019-001541 \hfill \emph{(2019)} \\
+
+
+\noindent Fonseca, AM, González R, Bardaji A,... \textbf{Brew J},... Mayor A. \emph{VAR2CSA Serology to Detect Plasmodium falciparum Transmission Patterns.} \href{https://wwwnc.cdc.gov/eid/article/25/10/18-1177_article}{Emerging Infectious Diseases} \\ DOI: 10.3201/eid2510.181177 \hfill \emph{(2019)} \\  
+
+
+\noindent Imbahale S, Montaña J, \textbf{Brew J}, Paaijmans K, Rist C, Chaccour C. \emph{Mapping the potential use of endectocide-treated cattle to reduce malaria transmission.} \href{www.nature.com/articles/s41598-019-42356-x}{Nature: Scientific Reports} \\ DOI: 10.1038/s41598-019-42356-x \hfill \emph{(2019)} \\
+
 
 \noindent García-Basteiro A, \textbf{Brew J}, Williams B, Borgdorff M, Cobelens F. \emph{What is the true tuberculosis mortality burden? Differences in estimates by the World Health Organization and the Global Burden of Disease study.} \href{https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyy144/5053290}{International Journal of Epidemiology} \\ DOI: 10.1093/ije/dyy144 \hfill \emph{(2018)} \\
 
@@ -282,8 +243,6 @@ Rabat, Morocco \hfill \emph{(2016)}\\
 and communicate their data through teaching and consulting (company)}\\
 \href{www.databrew.cc}{www.databrew.cc} \hfill \emph{2017 - ongoing}\\
 
-\noindent \emph{BCN Data: the numbers behind Europe's most vibrant city (website)}\\
-\href{www.bcndata.cat}{www.bcndata.cat} \hfill \emph{2015 - ongoing}\\
 
 \noindent \emph{Control Flu Data Insights: Immunization, consent and vaccine hesitance}\\ \href{http://economicsofmalaria.com/pdfs/estimating.pdf}{Florida Department of Health}, \href{http://economicsofmalaria.com/pdfs/targeting.pdf}{Alachua County} \hfill \emph{2015}\\
 
@@ -291,13 +250,11 @@ and communicate their data through teaching and consulting (company)}\\
 
 \noindent \emph{Quantifying capacity at Health Posts in Tigray, Ethiopia} \\ Tigray Regional Health Bureau (internal) \hfill \emph{2013}\\
 
-\noindent \emph{Ciudad Quetzal: A Guatemalan City Grapples with Gang Terrorism} \\ 
-\href{http://www.ticotimes.net/2011/04/15/guatemala-city-grapples-with-gang-terrorism}{Tico Times, Costa Rica} \hfill \emph{2011}\\
 
 \noindent \emph{Heart of the sky, heart of the earth: religious division and its sociopolitical causes and consequences in San Juan Sacatepequez, Guatemala} \\ Biehl Fellowship Paper \hfill \emph{2007}\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
+\newpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Experience} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -306,19 +263,10 @@ and communicate their data through teaching and consulting (company)}\\
 \vspace{2mm}
 
 \noindent \textbf{Co-founder, consultant, instructor} \hfill \textsc{Toronto, Canada}\\
-\noindent \emph{\href{www.databrew.cc}{DATABREW}} \hfill \emph{January 2017 - present}
+\noindent \emph{\href{www.databrew.cc}{DataBrew}} \hfill \emph{January 2017 - present}
 \vspace{-2mm}
 \begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Co-founded company which provides statistical consulting and educational services to insitutions in industry and academia
-\end{itemize}
-
-\noindent \textbf{Economist} \hfill \textsc{Manhiça, Mozambique}\\
-\noindent \emph{\href{www.manhica.org}{Centro de Investigação em Saude de Manhiça}} \hfill \emph{November 2016 - present}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Field research on economics and malaria
-\item Supervise and organize data collection teams
-\item Capacity-building and course instruction on data visualization and statistical software
+\item Co-founded company which provides consulting and educational services to insitutions in industry and academia
 \end{itemize}
 
 
@@ -428,6 +376,9 @@ and communicate their data through teaching and consulting (company)}\\
 \item Organized youth recreation clinics for the \textit{Cases Interculturales} program
 \item Taught English and Spanish in impoverished and violence-stricken area
 \end{itemize}
+
+
+\newpage
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

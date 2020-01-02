@@ -85,9 +85,9 @@ joe@databrew.cc \hfill \\
 % \textbf{Computer}
 % \end{center}
 
-\noindent \emph{Expert:} R, SAS, SQL\\
-\noindent \emph{Professional:} Python, Stata, SPSS, Ruby\\
-\noindent \emph{Proficient:} Javascript, HTML, CSS
+\noindent \emph{Expert:} R, SQL, Linux\\
+\noindent \emph{Professional:} Python, SAS, Stata, SPSS\\
+\noindent \emph{Proficient:} Javascript, HTML, CSS, Ruby
 
 
 \end{multicols}
@@ -100,7 +100,7 @@ joe@databrew.cc \hfill \\
 \line(1,0){200}
 \vspace{2mm}
 
-\noindent \textbf{PhD}: Economics (in progress)\hfill \emph{January 2016-}\\
+\noindent \textbf{PhD}: Economics (in progress: coursework completed, pending defense)\hfill \emph{January 2016-}\\
 \noindent \emph{Institut de Salut Global (host institution)} \hfill \textsc{Barcelona, Spain} \\
 \noindent \emph{Vrije Universiteit (secondary institution)} \hfill \textsc{Amsterdam, Holland} \\
 \noindent \emph{Centro de Investigaçao em Saude de Manhiça (research site)} \hfill \textsc{Manhiça, Mozambique}
@@ -121,7 +121,7 @@ joe@databrew.cc \hfill \\
 \end{itemize}
 
 
-\noindent \textbf{Master of Arts}: Diplomacy\hfill \emph{September 2009-June 2010}\\
+\noindent \textbf{Master of Arts}: Diplomatic history\hfill \emph{September 2009-June 2010}\\
 \noindent \emph{Institut Catholique de Paris} \hfill \textsc{Paris, France}
 \vspace{-2mm}
 \begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
@@ -150,7 +150,10 @@ joe@databrew.cc \hfill \\
 \subsection*{Peer-reviewed papers}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\noindent \textbf{Brew J}, Sauboin C. \emph{A Systematic Review of the Incremental Costs of Implementing a New Vaccine in the Expanded Program of Immunization in Sub-Saharan Africa} \href{https://doi.org/10.1177/2381468319894546}{MDM Policy & Practice} \\ DOI: 10.1177/2381468319894546 \hfill \emph{(2019)} \\
+
 \noindent Knoblauch A, de la Rosa S, Sherman J, Blauvelt C, Matemba C, Maxim L, Defawe O, Gueye A, Robertson J, McKinney J, \textbf{Brew J}, Paz E, Small P, Tanner M, Rakotosamimanana N, Grandjean S. \emph{Bi-directional drones to strengthen healthcare provision: experiences and lessons from Madagascar, Malawi and Senegal} \href{https://dx.doi.org/10.1136/bmjgh-2019-001541}{BMJ Global Health} \\ DOI: 10.1136/bmjgh-2019-001541 \hfill \emph{(2019)} \\
+
 
 \noindent Fonseca, AM, González R, Bardaji A,... \textbf{Brew J},... Mayor A. \emph{VAR2CSA Serology to Detect Plasmodium falciparum Transmission Patterns.} \href{https://wwwnc.cdc.gov/eid/article/25/10/18-1177_article}{Emerging Infectious Diseases} \\ DOI: 10.3201/eid2510.181177 \hfill \emph{(2019)} \\  
 
@@ -239,8 +242,6 @@ Rabat, Morocco \hfill \emph{(2016)}\\
 and communicate their data through teaching and consulting (company)}\\
 \href{www.databrew.cc}{www.databrew.cc} \hfill \emph{2017 - ongoing}\\
 
-\noindent \emph{BCN Data: the numbers behind Europe's most vibrant city (website)}\\
-\href{www.bcndata.cat}{www.bcndata.cat} \hfill \emph{2015 - ongoing}\\
 
 \noindent \emph{Control Flu Data Insights: Immunization, consent and vaccine hesitance}\\ \href{http://economicsofmalaria.com/pdfs/estimating.pdf}{Florida Department of Health}, \href{http://economicsofmalaria.com/pdfs/targeting.pdf}{Alachua County} \hfill \emph{2015}\\
 
@@ -248,13 +249,11 @@ and communicate their data through teaching and consulting (company)}\\
 
 \noindent \emph{Quantifying capacity at Health Posts in Tigray, Ethiopia} \\ Tigray Regional Health Bureau (internal) \hfill \emph{2013}\\
 
-\noindent \emph{Ciudad Quetzal: A Guatemalan City Grapples with Gang Terrorism} \\ 
-\href{http://www.ticotimes.net/2011/04/15/guatemala-city-grapples-with-gang-terrorism}{Tico Times, Costa Rica} \hfill \emph{2011}\\
 
 \noindent \emph{Heart of the sky, heart of the earth: religious division and its sociopolitical causes and consequences in San Juan Sacatepequez, Guatemala} \\ Biehl Fellowship Paper \hfill \emph{2007}\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
+\newpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Experience} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -263,19 +262,10 @@ and communicate their data through teaching and consulting (company)}\\
 \vspace{2mm}
 
 \noindent \textbf{Co-founder, consultant, instructor} \hfill \textsc{Toronto, Canada}\\
-\noindent \emph{\href{www.databrew.cc}{DATABREW}} \hfill \emph{January 2017 - present}
+\noindent \emph{\href{www.databrew.cc}{DataBrew}} \hfill \emph{January 2017 - present}
 \vspace{-2mm}
 \begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Co-founded company which provides statistical consulting and educational services to insitutions in industry and academia
-\end{itemize}
-
-\noindent \textbf{Economist} \hfill \textsc{Manhiça, Mozambique}\\
-\noindent \emph{\href{www.manhica.org}{Centro de Investigação em Saude de Manhiça}} \hfill \emph{November 2016 - present}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Field research on economics and malaria
-\item Supervise and organize data collection teams
-\item Capacity-building and course instruction on data visualization and statistical software
+\item Co-founded company which provides consulting and educational services to insitutions in industry and academia
 \end{itemize}
 
 
@@ -385,6 +375,9 @@ and communicate their data through teaching and consulting (company)}\\
 \item Organized youth recreation clinics for the \textit{Cases Interculturales} program
 \item Taught English and Spanish in impoverished and violence-stricken area
 \end{itemize}
+
+
+\newpage
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
