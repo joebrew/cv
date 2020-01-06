@@ -279,7 +279,7 @@ and communicate their data through teaching and consulting (company)}\\
 
 
 \noindent \textbf{Consultant} \hfill \textsc{Washington, DC, USA}\\
-\noindent \emph{\href{http://www.worldbank.org/}{World Bank}} \hfill \emph{May 2016 - present}
+\noindent \emph{\href{http://www.worldbank.org/}{World Bank}} \hfill \emph{May 2016 - May 2017}
 \vspace{-2mm}
 \begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
 \item Design and create researcher tools for large-scale surveys carried out by the World Bank Trade & Competitiveness Global Practice
@@ -287,7 +287,7 @@ and communicate their data through teaching and consulting (company)}\\
 \end{itemize}
 
 \noindent \textbf{Data scientist} \hfill \textsc{Oakland, CA, USA}\\
-\noindent \emph{\href{http://lendable.io}{Lendable}} \hfill \emph{January 2015 - present}
+\noindent \emph{\href{http://lendable.io}{Lendable}} \hfill \emph{January 2015 - December 2017}
 \vspace{-2mm}
 \begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
 \item Work to expand access to financial products to the developing world (East Africa, India)
