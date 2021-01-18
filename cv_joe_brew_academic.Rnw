@@ -150,6 +150,8 @@ joe@databrew.cc \hfill \\
 \subsection*{Publications}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\noindent Chaccour C, Ruiz-Castillo P, Richardson MA,... \textbf{Brew J},... Rabinovich R. \emph{The SARS-CoV-2 Ivermectin Navarra-ISGlobal Trial (SAINT) to Evaluate the Potential of Ivermectin to Reduce COVID-19 Transmission in low risk, non-severe COVID-19 patients in the first 48 hours after symptoms onset: A structured summary of a study protocol for a randomized control pilot trial} \href{https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04421-z} \\ DOI: 10.1186/s13063-020-04421-z \hfill \emph{(2021)} \\
+
 \noindent Chaccour C, Casellas A, Blanco-Di Matteo A,... \textbf{Brew J},... Fernandez-Alonso M. \emph{The effect of early treatment with ivermectin on viral load, symptoms and humoral response in patients with mild COVID-19: a pilot, double-blind, placebo-controlled, randomized clinical trial} \href{https://www.researchsquare.com/article/rs-116547/v1} (Pre-print) \\ Registration: https://clinicaltrials.gov/ct2/show/NCT04390022 \hfill \emph{(2020)} \\
 
 \noindent \textbf{Brew J}, Pradhan M, Broerse J, Bassat Q. \emph{Researchers’ perceptions of malaria eradication: findings from a mixed-methods analysis of a large online survey} \href{https://doi.org/10.1186/s12936-020-03430-2}{Malaria Journal} \\ DOI: 10.1186/s12936-020-03430-2 \hfill \emph{(2020)} \\
@@ -253,25 +255,6 @@ Rabat, Morocco \hfill \emph{(2016)}\\
 
 \noindent \emph{Religion and Counterrevolution: Fundamentalist Evangelicalism and the Dictatorship of Efraín Ríos Montt.} Sewanee: The University of the South (BA thesis) \hfill \emph{2008}\\
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection*{Non-academic papers and projects}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\noindent \emph{DATABREW: empowering researchers in academia and industry to explore, understand,
-and communicate their data through teaching and consulting (company)}\\
-\href{www.databrew.cc}{www.databrew.cc} \hfill \emph{2017 - ongoing}\\
-
-
-\noindent \emph{Control Flu Data Insights: Immunization, consent and vaccine hesitance}\\ \href{http://economicsofmalaria.com/pdfs/estimating.pdf}{Florida Department of Health}, \href{http://economicsofmalaria.com/pdfs/targeting.pdf}{Alachua County} \hfill \emph{2015}\\
-
-\noindent \emph{Community Health Improvement Plan: Evaluation Reports} \\ Florida Department of Health, Alachua County (internal) \hfill \emph{2014}\\
-
-\noindent \emph{Quantifying capacity at Health Posts in Tigray, Ethiopia} \\ Tigray Regional Health Bureau (internal) \hfill \emph{2013}\\
-
-
-\noindent \emph{Heart of the sky, heart of the earth: religious division and its sociopolitical causes and consequences in San Juan Sacatepequez, Guatemala} \\ Biehl Fellowship Paper \hfill \emph{2007}\\
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \newpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -279,6 +262,14 @@ and communicate their data through teaching and consulting (company)}\\
 \vspace{-7mm}
 \line(1,0){200}
 \vspace{2mm}
+
+\noindent \textbf{Co-founder, CEO} \hfill \textsc{Delaware, USA}\\
+\noindent \emph{\href{https://hyfeapp.com}{Hyfe Inc.}} \hfill \emph{April 2020 - present}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Co-founded company which uses AI to detect coughs and diagnose respiratory conditions
+\end{itemize}
+
 
 \noindent \textbf{Co-founder, consultant, instructor} \hfill \textsc{Toronto, Canada}\\
 \noindent \emph{\href{www.databrew.cc}{DataBrew}} \hfill \emph{January 2017 - present}
