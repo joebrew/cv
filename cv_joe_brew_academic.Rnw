@@ -150,6 +150,9 @@ joe@databrew.cc \hfill \\
 \subsection*{Publications}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\noindent Dixon D, Deutsch K,... \textbf{Brew J},... Yang B. \emph{Modelling distributions of Aedes aegypti and Aedes albopictus using climate, host density and interspecies competition} \href{https://google.com} \\ DOI: xxx \hfill \emph{(Accepted)} \\
+
+
 \noindent Chaccour C, Ruiz-Castillo P, Richardson MA,... \textbf{Brew J},... Rabinovich R. \emph{The SARS-CoV-2 Ivermectin Navarra-ISGlobal Trial (SAINT) to Evaluate the Potential of Ivermectin to Reduce COVID-19 Transmission in low risk, non-severe COVID-19 patients in the first 48 hours after symptoms onset: A structured summary of a study protocol for a randomized control pilot trial} \href{https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04421-z} \\ DOI: 10.1186/s13063-020-04421-z \hfill \emph{(2021)} \\
 
 \noindent Chaccour C, Casellas A, Blanco-Di Matteo A,... \textbf{Brew J},... Fernandez-Alonso M. \emph{The effect of early treatment with ivermectin on viral load, symptoms and humoral response in patients with mild COVID-19: a pilot, double-blind, placebo-controlled, randomized clinical trial} \href{https://www.researchsquare.com/article/rs-116547/v1} (Pre-print) \\ Registration: https://clinicaltrials.gov/ct2/show/NCT04390022 \hfill \emph{(2020)} \\
