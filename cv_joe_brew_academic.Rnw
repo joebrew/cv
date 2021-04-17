@@ -27,11 +27,11 @@
 \end{Huge}
 % \includegraphics[height=2em]{orcid} 
 
-joe@databrew.cc \hfill \\
+joe@databrew.cc | joe@hyfe.ai \hfill \\
 +34 666 66 80 86 \hfill  \\
 \href{https://orcid.org/0000-0002-4119-0117}{orcid.org/0000-0002-4119-0117} 
 \hfill  \\
-\href{http://www.scopus.com/inward/authorDetails.url?authorID=56442459000&partnerID=MN8TOARS}{Scopus ID: 56442459000} \hfill \href{http://databrew.cc}{www.databrew.cc} \\
+\href{http://www.scopus.com/inward/authorDetails.url?authorID=56442459000&partnerID=MN8TOARS}{Scopus ID: 56442459000} \hfill \href{http://databrew.cc}{www.databrew.cc} | \href{https://hyfe.ai}{www.hyfe.ai}\\
 
 
 
@@ -94,13 +94,156 @@ joe@databrew.cc \hfill \\
 
 
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Experience} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-7mm}
+\line(1,0){200}
+\vspace{2mm}
+
+\noindent \textbf{Co-founder, CEO} \hfill \textsc{Delaware, USA}\\
+\noindent \emph{\href{https://hyfeapp.com}{Hyfe Inc.}} \hfill \emph{April 2020 - present}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Co-founded startup which uses AI to detect coughs and screen for disease from sound
+\item Raised 1 million USD as of April 2021
+\end{itemize}
+
+
+\noindent \textbf{Co-founder, consultant} \hfill \textsc{Toronto, Canada}\\
+\noindent \emph{\href{www.databrew.cc}{DataBrew}} \hfill \emph{January 2017 - present}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Co-founded company which provides consulting and educational services to institutions in industry and academia
+\end{itemize}
+
+\noindent \textbf{Project Lead} \hfill \textsc{Pyuthan, Nepal}\\
+\noindent \emph{\href{http://droneots.com/}{Drone Optimized Therapy Systems}} \hfill \emph{March 2018 - December 2019}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Implemented a campaign for identifying tuberculosis cases and transporting sputum via drones
+\item Coordinateed an international team of engineers, health care workers, and researchers
+\item Navigated significant regulatory and operational challenges 
+\end{itemize}
+
+
+\noindent \textbf{Consultant} \hfill \textsc{Washington, DC, USA}\\
+\noindent \emph{\href{http://www.worldbank.org/}{World Bank}} \hfill \emph{May 2016 - May 2017}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Designed and created researcher tools for large-scale surveys carried out by the World Bank Trade & Competitiveness Global Practice
+\item Built interactive web apps for data exploration
+\end{itemize}
+
+\noindent \textbf{Data scientist} \hfill \textsc{Oakland, CA, USA}\\
+\noindent \emph{\href{http://lendable.io}{Lendable}} \hfill \emph{January 2015 - December 2017}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Worked to expand access to financial products to the developing world (East Africa, India)
+\item Programmed machine learning algorithms to predict financial risk
+\item Developed and implemented stochastic simulation methods 
+\item Devised creative means for extracting and generating features in a low-data context 
+\item Creatde internal and client-facing visualization tools
+%\item Use tools like Python (pandas, numpy, scikitlearn) and R
+\end{itemize}
+
+
+\noindent \textbf{Surveillance Epidemiologist} \hfill \textsc{Gainesville, FL, USA}\\
+\noindent \emph{\href{http://alachua.floridahealth.gov/}{Florida Department of Health, Alachua County}} \hfill \emph{July 2013 - December 2015}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Wrote programs to detect clusters/abnormalities for ER data stream
+\item Analyzed mosquito trap data to prevent arbovirus transmission
+\item Coordinated flu surveillance operations through school system
+\item Oversaw program evaluation, billing, revenue modeling activities
+\end{itemize}
+
+\noindent \textbf{Analyst} \hfill \textsc{Washington, DC, USA}\\
+\noindent \emph{\href{https://analystinstitute.org/}{Analyst Institute}} \hfill \emph{April 2014 - April 2015}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Analyzed voter data from controlled experiments
+\item Created \href{https://analystinstitute.org/power-calculator/}{tools} for statistical analysis 
+\item Designed interactive dashboards for data visualization
+\end{itemize}
+
+
+\noindent \textbf{"Data Science for Social Good" Fellow} \hfill \textsc{Chicago, IL, USA}\\
+\noindent \emph{\href{http://www.uchicago.edu/}{University of Chicago}} \hfill \emph{June 2014 - August 2014}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Analyzed large datasets to predict pediatric lead poisoning
+\item Worked in close collaboration with the Chicago Dept. of Public Health
+\item Used tools like R, Python and D3
+\item Worked closely with industry experts like Rayid Ghani and Ben Yuhas
+\item Designed tools for data exploration
+\end{itemize}
+
+
+\noindent \textbf{Erasmus Mundus Researcher} \hfill \textsc{Copenhagen, Denmark}\\
+\noindent \emph{\href{https://www.skolesundhed.dk/Default.aspx}{Skolesundhed}} \hfill \emph{February 2012-June 2013}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Redesigned school health screening system to bring to digital platform 
+\item Analyzed 3 years of youth health data on immigration and overweight
+\end{itemize}
+
+\noindent \textbf{Health Systems Researcher} \hfill \textsc{Barcelona, Spain}\\
+\noindent \emph{\href{http://www.aspb.cat/}{Agència de Salut Pública de Barcelona}} \hfill \emph{November 2012-February 2013}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Worked on SOPHIE project on immigration and health disparities 
+\end{itemize}
+
+\noindent \textbf{Maternal Health Analyst} \hfill \textsc{Mekelle, Ethiopia}\\
+\noindent \emph{\href{http://www.moh.gov.et/tigrayhb}{Tigray Regional Health Bureau}} \hfill \emph{May 2012-August 2012}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Collected, analyzed and reported on epidemiological and operational data from rural regional Health Posts near the Eritrean border
+\end{itemize}
+
+\noindent \textbf{Teacher} \hfill \textsc{Sewanee, TN, USA}\\
+\noindent \emph{\href{http://www.sasweb.org/}{St. Andrew's-Sewanee School}} \hfill \emph{January 2010-June 2011}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Taught middle and high school Technology and Spanish
+\end{itemize}
+
+\noindent \textbf{Assistant Coach} \hfill \textsc{Sewanee, TN, USA}\\
+\noindent \emph{\href{http://sewanee.edu/}{The University of the South}} \hfill \emph{August 2009-December 2010}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Coached men and women's cross country and track and field
+\end{itemize}
+
+\noindent \textbf{Health Educator} \hfill \textsc{Avedji Cité, Togo}\\
+\noindent \emph{\href{http://www.pdh-togo.org/html/english/welcome.html}{Promotion et Développement Humain}} \hfill \emph{May 2009-August 2009}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Led sexual health education workshops for teens
+\item Assessed medication adherence among HIV/AIDS patients through visits/interviews
+\item Assisted in accounting, data organization, process improvement
+
+\end{itemize}
+
+\noindent \textbf{Recreation Coordinator / Teacher} \hfill \textsc{Ciudad Quetzal, Guatemala}\\
+\noindent \emph{Instituto Experimental de Ciudad Quetzal} \hfill \emph{2006-2008 (summers)}
+\vspace{-2mm}
+\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
+\item Organized youth recreation clinics for the \textit{Cases Interculturales} program
+\item Taught English and Spanish in impoverished and violence-stricken area
+\end{itemize}
+
+
+\newpage
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Education} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \vspace{-7mm}
 \line(1,0){200}
 \vspace{2mm}
 
-\noindent \textbf{PhD}: Economics (in progress: coursework completed, pending defense)\hfill \emph{January 2016-}\\
+\noindent \textbf{PhD}: Transdisciplinary Solutions for Global Health (in progress: coursework completed, pending defense)\hfill \emph{January 2016-}\\
 \noindent \emph{Institut de Salut Global (host institution)} \hfill \textsc{Barcelona, Spain} \\
 \noindent \emph{Vrije Universiteit (secondary institution)} \hfill \textsc{Amsterdam, Holland} \\
 \noindent \emph{Centro de Investigaçao em Saude de Manhiça (research site)} \hfill \textsc{Manhiça, Mozambique}
@@ -138,7 +281,7 @@ joe@databrew.cc \hfill \\
 \end{itemize}
 
 
-\newpage
+% \newpage
 
 \section*{Publications} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \vspace{-7mm}
@@ -260,146 +403,6 @@ Rabat, Morocco \hfill \emph{(2016)}\\
 
 \newpage
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section*{Experience} % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\vspace{-7mm}
-\line(1,0){200}
-\vspace{2mm}
-
-\noindent \textbf{Co-founder, CEO} \hfill \textsc{Delaware, USA}\\
-\noindent \emph{\href{https://hyfeapp.com}{Hyfe Inc.}} \hfill \emph{April 2020 - present}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Co-founded company which uses AI to detect coughs and diagnose respiratory conditions
-\end{itemize}
-
-
-\noindent \textbf{Co-founder, consultant, instructor} \hfill \textsc{Toronto, Canada}\\
-\noindent \emph{\href{www.databrew.cc}{DataBrew}} \hfill \emph{January 2017 - present}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Co-founded company which provides consulting and educational services to insitutions in industry and academia
-\end{itemize}
-
-\noindent \textbf{Project Manager} \hfill \textsc{Pyuthan, Nepal}\\
-\noindent \emph{\href{http://droneots.com/}{Drone Optimized Therapy Systems}} \hfill \emph{March 2018 - December 2019}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Implement a campaign for identifying tuberculosis cases and transporting sputum via drones
-\item Coordinate an international team of engineers, health care workers, and researchers
-\item Navigate significant regulatory and operational challenges 
-\end{itemize}
-
-
-\noindent \textbf{Consultant} \hfill \textsc{Washington, DC, USA}\\
-\noindent \emph{\href{http://www.worldbank.org/}{World Bank}} \hfill \emph{May 2016 - May 2017}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Design and create researcher tools for large-scale surveys carried out by the World Bank Trade & Competitiveness Global Practice
-\item Build interactive web app for data exploration
-\end{itemize}
-
-\noindent \textbf{Data scientist} \hfill \textsc{Oakland, CA, USA}\\
-\noindent \emph{\href{http://lendable.io}{Lendable}} \hfill \emph{January 2015 - December 2017}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Work to expand access to financial products to the developing world (East Africa, India)
-\item Program machine learning algorithms to predict financial risk
-\item Develop and implement stochastic simulation methods 
-\item Devise creative means for extracting and generating features in a low-data context 
-\item Create internal and client-facing visualization tools
-%\item Use tools like Python (pandas, numpy, scikitlearn) and R
-\end{itemize}
-
-
-\noindent \textbf{Surveillance Epidemiologist} \hfill \textsc{Gainesville, FL, USA}\\
-\noindent \emph{\href{http://alachua.floridahealth.gov/}{Florida Department of Health, Alachua County}} \hfill \emph{July 2013 - December 2015}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Write programs to detect clusters/abnormalities for ER data stream
-\item Analyze mosquito trap data to prevent arbovirus transmission
-\item Coordinate flu surveillance operations through school system
-\item Oversee program evaluation, billing, revenue modeling activities
-\end{itemize}
-
-\noindent \textbf{Analyst} \hfill \textsc{Washington, DC, USA}\\
-\noindent \emph{\href{https://analystinstitute.org/}{Analyst Institute}} \hfill \emph{April 2014 - April 2015}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Analyzed voter data from controlled experiments
-\item Created \href{https://analystinstitute.org/power-calculator/}{tools} for statistical analysis 
-\item Designed interactive dashboards for data visualization
-\end{itemize}
-
-
-\noindent \textbf{"Data Science for Social Good" Fellow} \hfill \textsc{Chicago, IL, USA}\\
-\noindent \emph{\href{http://www.uchicago.edu/}{University of Chicago}} \hfill \emph{June 2014 - August 2014}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Analyzed large datasets to predict pediatric lead poisoning
-\item Worked in close collaboration with the Chicago Dept. of Public Health
-\item Used tools like R, Python and D3
-\item Worked closely with industry experts like Rayid Ghani and Ben Yuhas
-\item Designed tools for data exploration
-\end{itemize}
-
-
-\noindent \textbf{Erasmus Mundus Researcher} \hfill \textsc{Copenhagen, Denmark}\\
-\noindent \emph{\href{https://www.skolesundhed.dk/Default.aspx}{Skolesundhed}} \hfill \emph{February 2012-June 2013}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Redesigned school health screening system to bring to digital platform 
-\item Analyzed 3 years of youth health data on immigration and overweight
-\end{itemize}
-
-\noindent \textbf{Health Systems Researcher} \hfill \textsc{Barcelona, Spain}\\
-\noindent \emph{\href{http://www.aspb.cat/}{Agència de Salut Pública de Barcelona}} \hfill \emph{November 2012-February 2013}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Worked on SOPHIE project on immigration and health disparities 
-\end{itemize}
-
-\noindent \textbf{Maternal Health Epidemiologist} \hfill \textsc{Mekelle, Ethiopia}\\
-\noindent \emph{\href{http://www.moh.gov.et/tigrayhb}{Tigray Regional Health Bureau}} \hfill \emph{May 2012-August 2012}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Collected, analyzed and reported on data from rural regional Health Posts near the Eritrean border
-\end{itemize}
-
-\noindent \textbf{Teacher} \hfill \textsc{Sewanee, TN, USA}\\
-\noindent \emph{\href{http://www.sasweb.org/}{St. Andrew's-Sewanee School}} \hfill \emph{January 2010-June 2011}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Taught middle and high school Spanish and Technology
-\end{itemize}
-
-\noindent \textbf{Assistant Coach} \hfill \textsc{Sewanee, TN, USA}\\
-\noindent \emph{\href{http://sewanee.edu/}{The University of the South}} \hfill \emph{August 2009-December 2010}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Coached men and women's cross country and track and field
-\end{itemize}
-
-\noindent \textbf{Health Educator} \hfill \textsc{Avedji Cité, Togo}\\
-\noindent \emph{\href{http://www.pdh-togo.org/html/english/welcome.html}{Promotion et Développement Humain}} \hfill \emph{May 2009-August 2009}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Lead sexual health education workshops for teens
-\item Assessed medication adherence among HIV/AIDS patients through visits/interviews
-\item Assisted in accounting, data organization, process improvement
-
-\end{itemize}
-
-\noindent \textbf{Recreation Coordinator / Teacher} \hfill \textsc{Ciudad Quetzal, Guatemala}\\
-\noindent \emph{Instituto Experimental de Ciudad Quetzal} \hfill \emph{2006-2008 (summers)}
-\vspace{-2mm}
-\begin{itemize}\itemsep0pt \parskip0pt \parsep0pt
-\item Organized youth recreation clinics for the \textit{Cases Interculturales} program
-\item Taught English and Spanish in impoverished and violence-stricken area
-\end{itemize}
-
-
-\newpage
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
