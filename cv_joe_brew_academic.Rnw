@@ -293,28 +293,30 @@ joe@databrew.cc | joe@hyfe.ai \hfill \\
 \subsection*{Publications}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\noindent Dixon D, Deutsch K,... \textbf{Brew J},... Yang B. \emph{Modelling distributions of Aedes aegypti and Aedes albopictus using climate, host density and interspecies competition} \href{https://google.com} \\ DOI: xxx \hfill \emph{(Accepted)} \\
+\noindent Thomas R, Cirera J, \textbf{Brew J}, Saute F, Sicuri E. \emph{The short-term impact of a malaria elimination initiative in Southern Mozambique: Application of the synthetic control method to routine surveillance data.} \href{https://doi.org/10.1002/hec.4367}{Health Economics} \\ DOI: 10.1002/hec.4367  \hfill \emph{(2021)} \\
+
+\noindent Dixon D, Deutsch K,... \textbf{Brew J},... Yang B. \emph{Modelling distributions of Aedes aegypti and Aedes albopictus using climate, host density and interspecies competition.} \href{https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009063}{PLOS Neglected Tropical Diseases} \\ DOI: 10.1371/journal.pntd.0009063 \hfill \emph{2021} \\
 
 
-\noindent Chaccour C, Ruiz-Castillo P, Richardson MA,... \textbf{Brew J},... Rabinovich R. \emph{The SARS-CoV-2 Ivermectin Navarra-ISGlobal Trial (SAINT) to Evaluate the Potential of Ivermectin to Reduce COVID-19 Transmission in low risk, non-severe COVID-19 patients in the first 48 hours after symptoms onset: A structured summary of a study protocol for a randomized control pilot trial} \href{https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04421-z} \\ DOI: 10.1186/s13063-020-04421-z \hfill \emph{(2021)} \\
+\noindent Chaccour C, Ruiz-Castillo P, Richardson MA,... \textbf{Brew J},... Rabinovich R. \emph{The SARS-CoV-2 Ivermectin Navarra-ISGlobal Trial (SAINT) to Evaluate the Potential of Ivermectin to Reduce COVID-19 Transmission in low risk, non-severe COVID-19 patients in the first 48 hours after symptoms onset: A structured summary of a study protocol for a randomized control pilot trial.} \href{https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04421-z}{BMC} \\ DOI: 10.1186/s13063-020-04421-z \hfill \emph{(2021)} \\
 
-\noindent Chaccour C, Casellas A, Blanco-Di Matteo A,... \textbf{Brew J},... Fernandez-Alonso M. \emph{The effect of early treatment with ivermectin on viral load, symptoms and humoral response in patients with mild COVID-19: a pilot, double-blind, placebo-controlled, randomized clinical trial} \href{https://www.researchsquare.com/article/rs-116547/v1} (Pre-print) \\ Registration: https://clinicaltrials.gov/ct2/show/NCT04390022 \hfill \emph{(2020)} \\
+\noindent Chaccour C, Casellas A, Blanco-Di Matteo A,... \textbf{Brew J},... Fernandez-Alonso M. \emph{The effect of early treatment with ivermectin on viral load, symptoms and humoral response in patients with mild COVID-19: a pilot, double-blind, placebo-controlled, randomized clinical trial.} \href{https://doi.org/10.1016/j.eclinm.2020.100720} \\ DOI: 10.1016/j.eclinm.2020.100720 \hfill \emph{(2020)} \\
 
-\noindent \textbf{Brew J}, Pradhan M, Broerse J, Bassat Q. \emph{Researchers’ perceptions of malaria eradication: findings from a mixed-methods analysis of a large online survey} \href{https://doi.org/10.1186/s12936-020-03430-2}{Malaria Journal} \\ DOI: 10.1186/s12936-020-03430-2 \hfill \emph{(2020)} \\
+\noindent \textbf{Brew J}, Pradhan M, Broerse J, Bassat Q. \emph{Researchers’ perceptions of malaria eradication: findings from a mixed-methods analysis of a large online survey.} \href{https://doi.org/10.1186/s12936-020-03430-2}{Malaria Journal} \\ DOI: 10.1186/s12936-020-03430-2 \hfill \emph{(2020)} \\
 
-\noindent \textbf{Brew J}, Pinder M, Dalessandro U, Lindsay SW, Jones C, Sicuri E. \emph{Evidence of high bednet usage from a list randomization experiment in rural Gambia} \href{https://doi.org/10.1186/s12936-020-03322-5}{Malaria Journal} \\ DOI: 10.1186/s12936-020-03322-5 \hfill \emph{(2020)} \\
+\noindent \textbf{Brew J}, Pinder M, Dalessandro U, Lindsay SW, Jones C, Sicuri E. \emph{Evidence of high bednet usage from a list randomization experiment in rural Gambia.} \href{https://doi.org/10.1186/s12936-020-03322-5}{Malaria Journal} \\ DOI: 10.1186/s12936-020-03322-5 \hfill \emph{(2020)} \\
 
-\noindent Chaccour C, Ruiz-Castillo P, Richardson M, Moncunill G, Casellas A, Carmona-Torre F, Giraldez M, Schwartz J, Ramon J, Fernandez M, Reina G, Dobaña C, \textbf{Brew J}, Sabada B, Hammann F, Rabinovich R. \emph{The SARS-CoV-2 Ivermectin Navarra-ISGlobal Trial (SAINT) to Evaluate the Potential of Ivermectin to Reduce COVID-19 Transmission in low risk, non-severe COVID-19 patients in the first 48 hours after symptoms onset: A structured summary of a study protocol for a randomized control pilot trial} \href{https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04421-z}{BMC Trials} \\ DOI: 10.1186/s13063-020-04421-z \hfill \emph{(2020)} \\
-
-
-\noindent García-Basteiro A, Chaccour C, Guinovart C, Llupià A, \textbf{Brew J}, Trilla A, Plasencia A. \emph{Monitoring the COVID-19 epidemic in the context of widespread local transmission} \href{https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30162-4/fulltext}{The Lancet Respiratory Medicine} \\ DOI: 10.1016/S2213-2600(20)30162-4 \hfill \emph{(2020)} \\
+\noindent Chaccour C, Ruiz-Castillo P, Richardson M, Moncunill G, Casellas A, Carmona-Torre F, Giraldez M, Schwartz J, Ramon J, Fernandez M, Reina G, Dobaña C, \textbf{Brew J}, Sabada B, Hammann F, Rabinovich R. \emph{The SARS-CoV-2 Ivermectin Navarra-ISGlobal Trial (SAINT) to Evaluate the Potential of Ivermectin to Reduce COVID-19 Transmission in low risk, non-severe COVID-19 patients in the first 48 hours after symptoms onset: A structured summary of a study protocol for a randomized control pilot trial.} \href{https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04421-z}{BMC Trials} \\ DOI: 10.1186/s13063-020-04421-z \hfill \emph{(2020)} \\
 
 
-\noindent Mitjà O, Arenas A, Rodó X, Tobias A, \textbf{Brew J}, Benlloch JM. \emph{Experts' request to the Spanish Government: move Spain towards complete lockdown} \href{https://www.thelancet.com/pb-assets/Lancet/pdfs/S0140673620307534.pdf}{The Lancet} \\ DOI: 10.1016/S0140-6736(20)30753-4 \hfill \emph{(2020)} \\
+\noindent García-Basteiro A, Chaccour C, Guinovart C, Llupià A, \textbf{Brew J}, Trilla A, Plasencia A. \emph{Monitoring the COVID-19 epidemic in the context of widespread local transmission.} \href{https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30162-4/fulltext}{The Lancet Respiratory Medicine} \\ DOI: 10.1016/S2213-2600(20)30162-4 \hfill \emph{(2020)} \\
 
-\noindent \textbf{Brew J}, Sauboin C. \emph{A Systematic Review of the Incremental Costs of Implementing a New Vaccine in the Expanded Program of Immunization in Sub-Saharan Africa} \href{https://doi.org/10.1177/2381468319894546}{MDM Policy & Practice} \\ DOI: 10.1177/2381468319894546 \hfill \emph{(2019)} \\
 
-\noindent Knoblauch A, de la Rosa S, Sherman J, Blauvelt C, Matemba C, Maxim L, Defawe O, Gueye A, Robertson J, McKinney J, \textbf{Brew J}, Paz E, Small P, Tanner M, Rakotosamimanana N, Grandjean S. \emph{Bi-directional drones to strengthen healthcare provision: experiences and lessons from Madagascar, Malawi and Senegal} \href{https://dx.doi.org/10.1136/bmjgh-2019-001541}{BMJ Global Health} \\ DOI: 10.1136/bmjgh-2019-001541 \hfill \emph{(2019)} \\
+\noindent Mitjà O, Arenas A, Rodó X, Tobias A, \textbf{Brew J}, Benlloch JM. \emph{Experts' request to the Spanish Government: move Spain towards complete lockdown.} \href{https://www.thelancet.com/pb-assets/Lancet/pdfs/S0140673620307534.pdf}{The Lancet} \\ DOI: 10.1016/S0140-6736(20)30753-4 \hfill \emph{(2020)} \\
+
+\noindent \textbf{Brew J}, Sauboin C. \emph{A Systematic Review of the Incremental Costs of Implementing a New Vaccine in the Expanded Program of Immunization in Sub-Saharan Africa.} \href{https://doi.org/10.1177/2381468319894546}{MDM Policy & Practice} \\ DOI: 10.1177/2381468319894546 \hfill \emph{(2019)} \\
+
+\noindent Knoblauch A, de la Rosa S, Sherman J, Blauvelt C, Matemba C, Maxim L, Defawe O, Gueye A, Robertson J, McKinney J, \textbf{Brew J}, Paz E, Small P, Tanner M, Rakotosamimanana N, Grandjean S. \emph{Bi-directional drones to strengthen healthcare provision: experiences and lessons from Madagascar, Malawi and Senegal.} \href{https://dx.doi.org/10.1136/bmjgh-2019-001541}{BMJ Global Health} \\ DOI: 10.1136/bmjgh-2019-001541 \hfill \emph{(2019)} \\
 
 
 \noindent Fonseca, AM, González R, Bardaji A,... \textbf{Brew J},... Mayor A. \emph{VAR2CSA Serology to Detect Plasmodium falciparum Transmission Patterns.} \href{https://wwwnc.cdc.gov/eid/article/25/10/18-1177_article}{Emerging Infectious Diseases} \\ DOI: 10.3201/eid2510.181177 \hfill \emph{(2019)} \\  
@@ -392,6 +394,8 @@ Rabat, Morocco \hfill \emph{(2016)}\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection*{Academic theses}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\noindent \emph{\href{The Economics of Malaria: Opportunities, incentives, and risks on the road from control to elimination} Vrije Universiteit Amsterdam and Universitat de Barcelona (PhD dissertation) \hfill \emph{2021}\\
 
 \noindent \emph{\href{http://info.skolesundhed.dk/wp-content/uploads/2012/10/Speciale-af-Joseph-Brew.pdf}{Youth overweight in Denmark: prevalence, ethnicity and other risk factors.}} Kobenhavns Universitet (MPH dissertation) \hfill \emph{2013}\\
 
