@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.20)  17 JUN 2021 08:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.20)  17 JUN 2021 09:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -491,46 +491,46 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Trying to load font information for TS1+aer on input line 1
-08.
+10.
 
 (/usr/share/R/share/texmf/tex/latex/ts1aer.fd
 File: ts1aer.fd 
 )
 LaTeX Font Info:    Font shape `TS1/aer/m/n' in size <10.95> not available
-(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 108.
+(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 110.
  [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
-37.
+43.
  (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-37.
+43.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-237.
+243.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-237.
+243.
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 237.
+(Font)              <10.95> on input line 243.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 237.
+(Font)              <8> on input line 243.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 237.
+(Font)              <6> on input line 243.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -538,22 +538,17 @@ Make it at least 13.59999pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 296--297
-
- []
-
-
+[2] [3]
 Underfull \hbox (badness 10000) in paragraph at lines 298--299
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 301--302
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
 
  []
 
-[3]
+
 Underfull \hbox (badness 10000) in paragraph at lines 303--304
 
  []
@@ -574,42 +569,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 309--310
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--316
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
+Underfull \hbox (badness 10000) in paragraph at lines 317--318
 
  []
 
-
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 320--321
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--324
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
 
  []
 
@@ -624,62 +619,57 @@ Underfull \hbox (badness 10000) in paragraph at lines 336--337
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--340
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--343
+Underfull \hbox (badness 10000) in paragraph at lines 340--342
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--346
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 347--349
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 350--352
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 354--356
+Underfull \hbox (badness 10000) in paragraph at lines 343--345
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 358--360
+Underfull \hbox (badness 10000) in paragraph at lines 346--348
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 374--376
+Underfull \hbox (badness 10000) in paragraph at lines 349--351
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 377--379
+Underfull \hbox (badness 10000) in paragraph at lines 352--354
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--382
+Underfull \hbox (badness 10000) in paragraph at lines 356--358
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 383--385
+Underfull \hbox (badness 10000) in paragraph at lines 360--362
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 381--383
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 386--388
+Underfull \hbox (badness 10000) in paragraph at lines 384--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--389
 
  []
 
@@ -689,17 +679,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 390--392
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 399--400
+Underfull \hbox (badness 10000) in paragraph at lines 393--395
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--402
-
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 404--405
+Underfull \hbox (badness 10000) in paragraph at lines 397--399
 
  []
 
@@ -708,99 +693,114 @@ Underfull \hbox (badness 10000) in paragraph at lines 406--407
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
+
+ []
+
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 419--421
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 423--425
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 426--428
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--431
+Underfull \hbox (badness 10000) in paragraph at lines 430--432
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--434
+Underfull \hbox (badness 10000) in paragraph at lines 433--435
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--437
+Underfull \hbox (badness 10000) in paragraph at lines 436--438
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--440
+Underfull \hbox (badness 10000) in paragraph at lines 439--441
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 441--443
+Underfull \hbox (badness 10000) in paragraph at lines 442--444
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 444--446
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 447--449
+Underfull \hbox (badness 10000) in paragraph at lines 448--450
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 450--452
+Underfull \hbox (badness 10000) in paragraph at lines 451--453
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 453--455
+Underfull \hbox (badness 10000) in paragraph at lines 454--456
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 456--458
+Underfull \hbox (badness 10000) in paragraph at lines 457--459
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 459--461
+Underfull \hbox (badness 10000) in paragraph at lines 460--462
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--465
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--468
 
  []
 
 [8]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 510.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 517.
  [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 510.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 517.
  (./cv_joe_brew_academic.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 510.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 510.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 517.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 517.
 Package rerunfilecheck Info: File `cv_joe_brew_academic.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 510.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 517.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 245 ({)
+### simple group (level 1) entered at line 103 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
  6799 strings out of 481239
  103683 string characters out of 5920377
- 370807 words of memory out of 5000000
+ 371807 words of memory out of 5000000
  21879 multiletter control sequences out of 15000+600000
  571066 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,11n,45p,713b,367s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,10n,45p,713b,369s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/
 texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmb10.pfb></usr/share/texlive/texmf-dist/fonts/t
@@ -809,7 +809,7 @@ public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share
 /texmf/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on cv_joe_brew_academic.pdf (9 pages, 127367 bytes).
+Output written on cv_joe_brew_academic.pdf (9 pages, 127295 bytes).
 PDF statistics:
  157 PDF objects out of 1000 (max. 8388607)
  136 compressed objects within 2 object streams
